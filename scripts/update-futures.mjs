@@ -36,12 +36,13 @@ async function loadAllRows() {
   let start = 0;
   let pages = 0;
   for (;;) {
-    if (++pages > 1_000) throw new Error('MOEX pagination safety limit exceeded');
+    if (++pages > 10) throw new Error('MOEX pagination safety limit exceeded');
     const payload = await fetchPage(start);
     if (!payload.securities?.columns || !Array.isArray(payload.securities.data)) throw new Error('MOEX response has no securities table');
     const page = rowsToObjects(payload.securities);
     rows.push(...page);
     const cursor = payload['securities.cursor'];
+    if (pages === 1) console.log(`MOEX cursor: ${JSON.stringify(cursor)}`);
     const cursorRow = cursor?.data?.[0];
     const at = name => cursor?.columns?.indexOf(name) ?? -1;
     const currentIndex = cursorRow && at('INDEX') >= 0 ? asNumber(cursorRow[at('INDEX')]) : start;
