@@ -11,7 +11,7 @@ async function fetchPage(start, attempt = 1) {
   url.searchParams.set('iss.meta', 'off');
   url.searchParams.set('iss.only', 'securities,securities.cursor');
   url.searchParams.set('securities.columns', COLUMNS.join(','));
-  url.searchParams.set('start', String(start));
+  url.searchParams.set('securities.start', String(start));
   try {
     const response = await fetch(url, {
       headers: { 'user-agent': 'Aristocks futures calculator/1.0' },
