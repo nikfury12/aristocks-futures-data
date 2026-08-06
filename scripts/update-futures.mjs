@@ -3,7 +3,7 @@ import { dirname, resolve } from 'node:path';
 
 const OUTPUT = resolve('data/futures.json');
 const COLUMNS = ['SECID', 'SHORTNAME', 'LASTTRADEDATE', 'MINSTEP', 'STEPPRICE', 'INITIALMARGIN', 'PREVSETTLEPRICE', 'ASSETCODE'];
-const ENDPOINT = 'https://iss.moex.com/iss/engines/futures/markets/forts/securities.json';
+const ENDPOINT = 'https://iss.moex.com/iss/engines/futures/markets/forts/boards/RFUD/securities.json';
 const asNumber = value => Number.isFinite(Number(value)) ? Number(value) : 0;
 
 async function fetchPage(start, attempt = 1) {
@@ -34,7 +34,9 @@ function rowsToObjects(block) {
 async function loadAllRows() {
   const rows = [];
   let start = 0;
+  let pages = 0;
   for (;;) {
+    if (++pages > 1_000) throw new Error('MOEX pagination safety limit exceeded');
     const payload = await fetchPage(start);
     if (!payload.securities?.columns || !Array.isArray(payload.securities.data)) throw new Error('MOEX response has no securities table');
     const page = rowsToObjects(payload.securities);
@@ -46,8 +48,9 @@ async function loadAllRows() {
     const total = cursorRow && at('TOTAL') >= 0 ? asNumber(cursorRow[at('TOTAL')]) : null;
     const pageSize = cursorRow && at('PAGESIZE') >= 0 ? asNumber(cursorRow[at('PAGESIZE')]) : page.length;
     if (!page.length || (total !== null && currentIndex + page.length >= total)) break;
-    start = currentIndex + (pageSize || page.length);
-    if (start > 20_000) throw new Error('MOEX pagination safety limit exceeded');
+    const nextStart = currentIndex + (pageSize || page.length);
+    if (nextStart <= start) throw new Error('MOEX pagination did not advance');
+    start = nextStart;
   }
   return rows;
 }
