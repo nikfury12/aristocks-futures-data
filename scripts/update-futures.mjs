@@ -36,6 +36,7 @@ async function loadAllRows() {
   if (!firstPayload.securities?.columns || !Array.isArray(firstPayload.securities.data)) throw new Error('MOEX response has no securities table');
   const firstPage = rowsToObjects(firstPayload.securities);
   if (!firstPage.length) return [];
+  if (!firstPayload['securities.cursor']) return firstPage;
 
   const rows = [...firstPage];
   const pageSize = firstPage.length;
