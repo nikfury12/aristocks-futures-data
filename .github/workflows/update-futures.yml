@@ -25,7 +25,7 @@ jobs:
         run: node scripts/update-futures.mjs
       - name: Save updated data
         run: |
-          if git diff --quiet -- data/futures.json; then
+          if [ -z "$(git status --porcelain -- data/futures.json)" ]; then
             echo "No changes"
             exit 0
           fi
