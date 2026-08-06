@@ -32,28 +32,37 @@ function rowsToObjects(block) {
 }
 
 async function loadAllRows() {
-  const rows = [];
-  let start = 0;
-  let pages = 0;
-  for (;;) {
-    if (++pages > 10) throw new Error('MOEX pagination safety limit exceeded');
-    const payload = await fetchPage(start);
-    if (!payload.securities?.columns || !Array.isArray(payload.securities.data)) throw new Error('MOEX response has no securities table');
-    const page = rowsToObjects(payload.securities);
-    rows.push(...page);
-    const cursor = payload['securities.cursor'];
-    if (pages === 1) console.log(`MOEX cursor: ${JSON.stringify(cursor)}`);
-    const cursorRow = cursor?.data?.[0];
-    const at = name => cursor?.columns?.indexOf(name) ?? -1;
-    const currentIndex = cursorRow && at('INDEX') >= 0 ? asNumber(cursorRow[at('INDEX')]) : start;
-    const total = cursorRow && at('TOTAL') >= 0 ? asNumber(cursorRow[at('TOTAL')]) : null;
-    const pageSize = cursorRow && at('PAGESIZE') >= 0 ? asNumber(cursorRow[at('PAGESIZE')]) : page.length;
-    if (!page.length || (total !== null && currentIndex + page.length >= total)) break;
-    const nextStart = currentIndex + (pageSize || page.length);
-    if (nextStart <= start) throw new Error('MOEX pagination did not advance');
-    start = nextStart;
+  const firstPayload = await fetchPage(0);
+  if (!firstPayload.securities?.columns || !Array.isArray(firstPayload.securities.data)) throw new Error('MOEX response has no securities table');
+  const firstPage = rowsToObjects(firstPayload.securities);
+  if (!firstPage.length) return [];
+
+  const rows = [...firstPage];
+  const pageSize = firstPage.length;
+  const batchSize = 8;
+  const maxPages = 2_000;
+  const signatures = new Set([firstPage.map(row => row.SECID).join('|')]);
+
+  for (let pageIndex = 1; pageIndex < maxPages; pageIndex += batchSize) {
+    const indexes = Array.from({ length: Math.min(batchSize, maxPages - pageIndex) }, (_, offset) => pageIndex + offset);
+    const payloads = await Promise.all(indexes.map(index => fetchPage(index * pageSize)));
+    let reachedEnd = false;
+
+    for (const payload of payloads) {
+      if (!payload.securities?.columns || !Array.isArray(payload.securities.data)) throw new Error('MOEX response has no securities table');
+      const page = rowsToObjects(payload.securities);
+      if (!page.length) { reachedEnd = true; continue; }
+      const signature = page.map(row => row.SECID).join('|');
+      if (signatures.has(signature)) throw new Error('MOEX pagination returned a repeated page');
+      signatures.add(signature);
+      rows.push(...page);
+      if (page.length < pageSize) reachedEnd = true;
+    }
+
+    if (reachedEnd) return rows;
   }
-  return rows;
+
+  throw new Error('MOEX pagination safety limit exceeded');
 }
 
 function normalize(rows) {
