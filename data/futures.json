@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-08-14T13:45:53.841Z",
-  "count": 472,
+  "updatedAt": "2026-08-15T01:51:09.671Z",
+  "count": 471,
   "contracts": [
-    {
-      "secid": "SuQ6",
-      "name": "SUGAR-8.26",
-      "assetCode": "SUGAR",
-      "expiry": "2026-08-14",
-      "minStep": 10,
-      "stepPrice": 1,
-      "margin": 993.12,
-      "price": 62070
-    },
     {
       "secid": "VIQ6",
       "name": "RVI-8.26",
