@@ -1,7 +1,7 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-08-19T15:47:52.726Z",
-  "count": 484,
+  "updatedAt": "2026-08-20T04:00:24.102Z",
+  "count": 489,
   "contracts": [
     {
       "secid": "VIQ6",
@@ -9,9 +9,9 @@
       "assetCode": "RVI",
       "expiry": "2026-08-20",
       "minStep": 0.05,
-      "stepPrice": 8.51645,
-      "margin": 2948.13,
-      "price": 43
+      "stepPrice": 8.51293,
+      "margin": 2939.9,
+      "price": 42.9
     },
     {
       "secid": "WTQ6",
@@ -19,9 +19,9 @@
       "assetCode": "WTI",
       "expiry": "2026-08-20",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 17647.77,
-      "price": 85.67
+      "stepPrice": 8.51293,
+      "margin": 17773.02,
+      "price": 86.45
     },
     {
       "secid": "KCQ6",
@@ -29,9 +29,9 @@
       "assetCode": "COFFEE",
       "expiry": "2026-08-21",
       "minStep": 0.001,
-      "stepPrice": 0.85165,
-      "margin": 353.14,
-      "price": 3.584
+      "stepPrice": 0.85129,
+      "margin": 353.99,
+      "price": 3.605
     },
     {
       "secid": "CCQ6",
@@ -40,8 +40,8 @@
       "expiry": "2026-08-25",
       "minStep": 0.1,
       "stepPrice": 1,
-      "margin": 864.87,
-      "price": 503.1
+      "margin": 865.57,
+      "price": 504.4
     },
     {
       "secid": "NGQ6",
@@ -49,9 +49,9 @@
       "assetCode": "NG",
       "expiry": "2026-08-27",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 6545.87,
-      "price": 2.741
+      "stepPrice": 8.51293,
+      "margin": 6756.6,
+      "price": 2.836
     },
     {
       "secid": "NRQ6",
@@ -59,9 +59,9 @@
       "assetCode": "NGM",
       "expiry": "2026-08-27",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 65.44,
-      "price": 2.74
+      "stepPrice": 0.08513,
+      "margin": 67.52,
+      "price": 2.834
     },
     {
       "secid": "92Q6",
@@ -70,8 +70,8 @@
       "expiry": "2026-08-28",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 7608.16,
-      "price": 74070
+      "margin": 7574.52,
+      "price": 73960
     },
     {
       "secid": "95Q6",
@@ -80,8 +80,8 @@
       "expiry": "2026-08-28",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 8843.36,
-      "price": 78440
+      "margin": 8825.07,
+      "price": 78490
     },
     {
       "secid": "BTQ6",
@@ -89,9 +89,9 @@
       "assetCode": "BTC",
       "expiry": "2026-08-28",
       "minStep": 1,
-      "stepPrice": 0.08516,
-      "margin": 1411.79,
-      "price": 64992
+      "stepPrice": 0.08513,
+      "margin": 1487.69,
+      "price": 68573
     },
     {
       "secid": "DLQ6",
@@ -100,8 +100,8 @@
       "expiry": "2026-08-28",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 7620.48,
-      "price": 74190
+      "margin": 7634.94,
+      "price": 74550
     },
     {
       "secid": "EHQ6",
@@ -109,9 +109,9 @@
       "assetCode": "ETH",
       "expiry": "2026-08-28",
       "minStep": 0.1,
-      "stepPrice": 0.08516,
-      "margin": 662.43,
-      "price": 1921.6
+      "stepPrice": 0.08513,
+      "margin": 718.81,
+      "price": 2087.2
     },
     {
       "secid": "FFQ6",
@@ -119,9 +119,9 @@
       "assetCode": "TTF",
       "expiry": "2026-08-28",
       "minStep": 0.005,
-      "stepPrice": 0.49366,
-      "margin": 3162.23,
-      "price": 64.03
+      "stepPrice": 0.49273,
+      "margin": 3126.77,
+      "price": 63.51
     },
     {
       "secid": "S3Q6",
@@ -129,9 +129,9 @@
       "assetCode": "SOL",
       "expiry": "2026-08-28",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 2889.36,
-      "price": 77.22
+      "stepPrice": 0.85129,
+      "margin": 3071.45,
+      "price": 82.17
     },
     {
       "secid": "TXQ6",
@@ -139,9 +139,9 @@
       "assetCode": "TRX",
       "expiry": "2026-08-28",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 984.11,
-      "price": 0.3328
+      "stepPrice": 0.85129,
+      "margin": 987.43,
+      "price": 0.3343
     },
     {
       "secid": "XRQ6",
@@ -149,9 +149,9 @@
       "assetCode": "XRP",
       "expiry": "2026-08-28",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 4255,
-      "price": 1.0054
+      "stepPrice": 0.85129,
+      "margin": 4538.18,
+      "price": 1.0734
     },
     {
       "secid": "BMU6",
@@ -159,9 +159,9 @@
       "assetCode": "BRM",
       "expiry": "2026-08-31",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1653.3,
-      "price": 91.8
+      "stepPrice": 0.85129,
+      "margin": 1657.5,
+      "price": 92.24
     },
     {
       "secid": "BRU6",
@@ -169,9 +169,9 @@
       "assetCode": "BR",
       "expiry": "2026-08-31",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 16532.84,
-      "price": 91.8
+      "stepPrice": 8.51293,
+      "margin": 16578.64,
+      "price": 92.26
     },
     {
       "secid": "MFQ6",
@@ -180,7 +180,7 @@
       "expiry": "2026-08-31",
       "minStep": 0.01,
       "stepPrice": 8.49315,
-      "margin": 624.97,
+      "margin": 583.87,
       "price": 83.58
     },
     {
@@ -190,7 +190,7 @@
       "expiry": "2026-08-31",
       "minStep": 0.01,
       "stepPrice": 8.49315,
-      "margin": 624.97,
+      "margin": 583.87,
       "price": 86.28
     },
     {
@@ -200,8 +200,8 @@
       "expiry": "2026-08-31",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1571.32,
-      "price": 11470
+      "margin": 1165.46,
+      "price": 11280
     },
     {
       "secid": "OJU6",
@@ -209,9 +209,9 @@
       "assetCode": "ORANGE",
       "expiry": "2026-09-01",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 2443.5,
-      "price": 1.52
+      "stepPrice": 8.51293,
+      "margin": 2421.71,
+      "price": 1.51
     },
     {
       "secid": "RBU6",
@@ -220,8 +220,8 @@
       "expiry": "2026-09-01",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1164.99,
-      "price": 11382
+      "margin": 1164.25,
+      "price": 11395
     },
     {
       "secid": "RFU6",
@@ -230,7 +230,7 @@
       "expiry": "2026-09-01",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 992.32,
+      "margin": 984.8,
       "price": 4.4735
     },
     {
@@ -239,9 +239,9 @@
       "assetCode": "ALUM",
       "expiry": "2026-09-15",
       "minStep": 0.5,
-      "stepPrice": 4.25823,
-      "margin": 3315.66,
-      "price": 3227.5
+      "stepPrice": 4.25647,
+      "margin": 3321.88,
+      "price": 3240.5
     },
     {
       "secid": "CEU6",
@@ -249,9 +249,9 @@
       "assetCode": "COPPER",
       "expiry": "2026-09-15",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 1445.75,
-      "price": 14073
+      "stepPrice": 0.85129,
+      "margin": 1447.56,
+      "price": 14121
     },
     {
       "secid": "NCU6",
@@ -259,9 +259,9 @@
       "assetCode": "NICKEL",
       "expiry": "2026-09-15",
       "minStep": 5,
-      "stepPrice": 4.25823,
-      "margin": 2529.46,
-      "price": 16650
+      "stepPrice": 4.25647,
+      "margin": 2582.95,
+      "price": 17030
     },
     {
       "secid": "SuU6",
@@ -270,8 +270,8 @@
       "expiry": "2026-09-15",
       "minStep": 10,
       "stepPrice": 1,
-      "margin": 1066.82,
-      "price": 63270
+      "margin": 1047.46,
+      "price": 62240
     },
     {
       "secid": "ZCU6",
@@ -279,9 +279,9 @@
       "assetCode": "ZINC",
       "expiry": "2026-09-15",
       "minStep": 0.5,
-      "stepPrice": 4.25823,
-      "margin": 3820.59,
-      "price": 3719
+      "stepPrice": 4.25647,
+      "margin": 3836.49,
+      "price": 3742.5
     },
     {
       "secid": "AEU6",
@@ -290,8 +290,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 3614.96,
-      "price": 23.248
+      "margin": 3552.3,
+      "price": 22.873
     },
     {
       "secid": "AFU6",
@@ -300,8 +300,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 871.6,
-      "price": 3385
+      "margin": 892,
+      "price": 3467
     },
     {
       "secid": "AKU6",
@@ -310,8 +310,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2145.91,
-      "price": 8349
+      "margin": 2156.73,
+      "price": 8391
     },
     {
       "secid": "ALU6",
@@ -320,8 +320,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 498.61,
-      "price": 1942
+      "margin": 507.42,
+      "price": 1978
     },
     {
       "secid": "ARU6",
@@ -330,7 +330,7 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 6890.08,
+      "margin": 6885.25,
       "price": 22.501
     },
     {
@@ -340,8 +340,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 60.73,
-      "price": 189
+      "margin": 53.51,
+      "price": 207
     },
     {
       "secid": "AUU6",
@@ -349,9 +349,9 @@
       "assetCode": "AUDU",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 7888.08,
-      "price": 0.7094
+      "stepPrice": 8.51293,
+      "margin": 7901.88,
+      "price": 0.7117
     },
     {
       "secid": "BNU6",
@@ -360,8 +360,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 397.5,
-      "price": 1176
+      "margin": 415.99,
+      "price": 1234
     },
     {
       "secid": "BSU6",
@@ -370,8 +370,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 633.86,
-      "price": 2461
+      "margin": 638.46,
+      "price": 2482
     },
     {
       "secid": "BYU6",
@@ -380,8 +380,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.01,
       "stepPrice": 10,
-      "margin": 4369.26,
-      "price": 28.46
+      "margin": 4350.22,
+      "price": 28.36
     },
     {
       "secid": "CAU6",
@@ -389,9 +389,9 @@
       "assetCode": "UCAD",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 6.14241,
-      "margin": 10540.91,
-      "price": 1.3865
+      "stepPrice": 6.12926,
+      "margin": 10462.88,
+      "price": 1.3818
     },
     {
       "secid": "CFU6",
@@ -399,9 +399,9 @@
       "assetCode": "UCHF",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 10.4947,
-      "margin": 8736.56,
-      "price": 0.8096
+      "stepPrice": 10.49813,
+      "margin": 8597.91,
+      "price": 0.798
     },
     {
       "secid": "CKU6",
@@ -410,8 +410,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1325.76,
-      "price": 6316
+      "margin": 1378.99,
+      "price": 6580
     },
     {
       "secid": "CMU6",
@@ -420,8 +420,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 4779.7,
-      "price": 13561
+      "margin": 4453.32,
+      "price": 12806
     },
     {
       "secid": "CRU6",
@@ -430,8 +430,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1116.28,
-      "price": 12.682
+      "margin": 1098.22,
+      "price": 12.503
     },
     {
       "secid": "CSU6",
@@ -440,8 +440,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 617.81,
-      "price": 5198
+      "margin": 624.51,
+      "price": 5268
     },
     {
       "secid": "DRU6",
@@ -450,8 +450,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 558.87,
-      "price": 2170
+      "margin": 557.45,
+      "price": 2167
     },
     {
       "secid": "EAU6",
@@ -460,8 +460,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 772.79,
-      "price": 3003
+      "margin": 796.25,
+      "price": 3104
     },
     {
       "secid": "ECU6",
@@ -469,8 +469,8 @@
       "assetCode": "ECAD",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 6.14241,
-      "margin": 13631.01,
+      "stepPrice": 6.12926,
+      "margin": 13578.35,
       "price": 1.6218
     },
     {
@@ -479,9 +479,9 @@
       "assetCode": "ED",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 6039.82,
-      "price": 1.1561
+      "stepPrice": 8.51293,
+      "margin": 6065.94,
+      "price": 1.1641
     },
     {
       "secid": "EGU6",
@@ -489,8 +489,8 @@
       "assetCode": "EGBP",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 11.54234,
-      "margin": 12131.8,
+      "stepPrice": 11.52906,
+      "margin": 12096.93,
       "price": 0.9078
     },
     {
@@ -499,8 +499,8 @@
       "assetCode": "EJPY",
       "expiry": "2026-09-17",
       "minStep": 0.01,
-      "stepPrice": 5.3401,
-      "margin": 10982.68,
+      "stepPrice": 5.3403,
+      "margin": 10964.13,
       "price": 180.92
     },
     {
@@ -510,8 +510,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1536.3,
-      "price": 98.8
+      "margin": 1519.98,
+      "price": 97.87
     },
     {
       "secid": "EuU6",
@@ -520,8 +520,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 15352.4,
-      "price": 98765
+      "margin": 15301.44,
+      "price": 97843
     },
     {
       "secid": "FEU6",
@@ -530,8 +530,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1604.37,
-      "price": 6228
+      "margin": 1601.83,
+      "price": 6242
     },
     {
       "secid": "FIU6",
@@ -540,8 +540,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1367,
-      "price": 4012
+      "margin": 1392.17,
+      "price": 4099
     },
     {
       "secid": "FLU6",
@@ -550,8 +550,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1570.68,
-      "price": 7577
+      "margin": 1549.97,
+      "price": 7493
     },
     {
       "secid": "FNU6",
@@ -560,8 +560,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1344.83,
-      "price": 9020
+      "margin": 1323.54,
+      "price": 8896
     },
     {
       "secid": "FSU6",
@@ -570,8 +570,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1073.52,
-      "price": 5171
+      "margin": 1098.57,
+      "price": 5291
     },
     {
       "secid": "GKU6",
@@ -580,8 +580,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 208.92,
-      "price": 1176
+      "margin": 219.74,
+      "price": 1240
     },
     {
       "secid": "GLU6",
@@ -590,8 +590,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.1,
       "stepPrice": 0.1,
-      "margin": 1410.41,
-      "price": 11971.2
+      "margin": 1427.22,
+      "price": 12121.2
     },
     {
       "secid": "GUU6",
@@ -599,9 +599,9 @@
       "assetCode": "GBPU",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 13691.84,
-      "price": 1.3507
+      "stepPrice": 8.51293,
+      "margin": 13714.73,
+      "price": 1.3551
     },
     {
       "secid": "GZU6",
@@ -610,8 +610,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1511.88,
-      "price": 8517
+      "margin": 1519.86,
+      "price": 8573
     },
     {
       "secid": "HDU6",
@@ -620,8 +620,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 712.75,
-      "price": 2769
+      "margin": 714.82,
+      "price": 2784
     },
     {
       "secid": "HKU6",
@@ -630,8 +630,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1688.22,
-      "price": 10.892
+      "margin": 1685.23,
+      "price": 10.748
     },
     {
       "secid": "HYU6",
@@ -640,8 +640,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 702.68,
-      "price": 3387
+      "margin": 712.87,
+      "price": 3440
     },
     {
       "secid": "I2U6",
@@ -650,8 +650,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 1830.42,
-      "price": 0.8897
+      "margin": 1805.84,
+      "price": 0.8786
     },
     {
       "secid": "INU6",
@@ -659,8 +659,8 @@
       "assetCode": "UINR",
       "expiry": "2026-09-17",
       "minStep": 0.0025,
-      "stepPrice": 2.2253,
-      "margin": 5468.82,
+      "stepPrice": 2.22275,
+      "margin": 5450.74,
       "price": 95.9825
     },
     {
@@ -670,8 +670,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.5,
       "stepPrice": 0.5,
-      "margin": 91.99,
-      "price": 485.5
+      "margin": 91.33,
+      "price": 483
     },
     {
       "secid": "IRU6",
@@ -680,8 +680,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 6305.36,
-      "price": 24509
+      "margin": 6480.63,
+      "price": 25189
     },
     {
       "secid": "ISU6",
@@ -690,8 +690,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 151.37,
-      "price": 431
+      "margin": 153.41,
+      "price": 433
     },
     {
       "secid": "IVU6",
@@ -700,8 +700,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1784.91,
-      "price": 6526
+      "margin": 1840.07,
+      "price": 6856
     },
     {
       "secid": "JPU6",
@@ -709,9 +709,9 @@
       "assetCode": "UJPY",
       "expiry": "2026-09-17",
       "minStep": 0.01,
-      "stepPrice": 5.3401,
-      "margin": 9678.14,
-      "price": 159.43
+      "stepPrice": 5.3403,
+      "margin": 9591.5,
+      "price": 158.27
     },
     {
       "secid": "KMU6",
@@ -720,8 +720,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 170.05,
-      "price": 487
+      "margin": 172.65,
+      "price": 501
     },
     {
       "secid": "KZU6",
@@ -730,8 +730,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 2953.8,
-      "price": 18.872
+      "margin": 2950.24,
+      "price": 18.877
     },
     {
       "secid": "LEU6",
@@ -740,8 +740,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 140.74,
-      "price": 663
+      "margin": 140.62,
+      "price": 675
     },
     {
       "secid": "LKU6",
@@ -750,8 +750,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 7643.48,
-      "price": 43065
+      "margin": 7679.62,
+      "price": 43322
     },
     {
       "secid": "LNU6",
@@ -760,8 +760,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 504.6,
-      "price": 1927
+      "margin": 509.17,
+      "price": 1944
     },
     {
       "secid": "MAU6",
@@ -770,7 +770,7 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 676.31,
+      "margin": 546.27,
       "price": 4247
     },
     {
@@ -780,8 +780,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1949.21,
-      "price": 3696
+      "margin": 1951.36,
+      "price": 3717
     },
     {
       "secid": "MDU6",
@@ -790,8 +790,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3426.44,
-      "price": 13303
+      "margin": 3457.5,
+      "price": 13443
     },
     {
       "secid": "MEU6",
@@ -800,8 +800,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2757.3,
-      "price": 15527
+      "margin": 2797.89,
+      "price": 15766
     },
     {
       "secid": "MGU6",
@@ -810,8 +810,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 4435.03,
-      "price": 20165
+      "margin": 3818.96,
+      "price": 21517
     },
     {
       "secid": "MMU6",
@@ -820,8 +820,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 2368.84,
-      "price": 2177.75
+      "margin": 2380.45,
+      "price": 2194.55
     },
     {
       "secid": "MNU6",
@@ -830,8 +830,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 380.6,
-      "price": 1675
+      "margin": 390.6,
+      "price": 1720
     },
     {
       "secid": "MTU6",
@@ -840,8 +840,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3287.91,
-      "price": 18532
+      "margin": 3318.86,
+      "price": 18704
     },
     {
       "secid": "MVU6",
@@ -850,8 +850,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 311.2,
-      "price": 421
+      "margin": 316.02,
+      "price": 432
     },
     {
       "secid": "MXU6",
@@ -860,8 +860,8 @@
       "expiry": "2026-09-17",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 23692.56,
-      "price": 217825
+      "margin": 23806.64,
+      "price": 219475
     },
     {
       "secid": "MYU6",
@@ -869,9 +869,9 @@
       "assetCode": "MOEXCNY",
       "expiry": "2026-09-17",
       "minStep": 0.1,
-      "stepPrice": 1.25907,
-      "margin": 1433.95,
-      "price": 790
+      "stepPrice": 1.24363,
+      "margin": 1452.32,
+      "price": 811.3
     },
     {
       "secid": "NBU6",
@@ -880,8 +880,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 104.53,
-      "price": 270
+      "margin": 105.76,
+      "price": 274
     },
     {
       "secid": "NMU6",
@@ -890,8 +890,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1243.09,
-      "price": 7008
+      "margin": 1290.69,
+      "price": 7265
     },
     {
       "secid": "NVU6",
@@ -900,8 +900,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1718.42,
-      "price": 9565
+      "margin": 1732.18,
+      "price": 9659
     },
     {
       "secid": "OGU6",
@@ -910,7 +910,7 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 842.09,
+      "margin": 840.31,
       "price": 5648
     },
     {
@@ -920,8 +920,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 768.15,
-      "price": 2983
+      "margin": 774.46,
+      "price": 3011
     },
     {
       "secid": "PHU6",
@@ -930,8 +930,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 935.29,
-      "price": 5268
+      "margin": 980.9,
+      "price": 5527
     },
     {
       "secid": "PIU6",
@@ -940,8 +940,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1490.34,
-      "price": 5575
+      "margin": 1529.12,
+      "price": 5720
     },
     {
       "secid": "PSU6",
@@ -950,8 +950,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 314.64,
-      "price": 933
+      "margin": 324.3,
+      "price": 964
     },
     {
       "secid": "PXU6",
@@ -960,8 +960,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2011.08,
-      "price": 11194
+      "margin": 2103.58,
+      "price": 11730
     },
     {
       "secid": "RAU6",
@@ -970,8 +970,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 218.68,
-      "price": 1211
+      "margin": 221.97,
+      "price": 1232
     },
     {
       "secid": "RDU6",
@@ -980,8 +980,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2499.31,
-      "price": 7403
+      "margin": 2451.83,
+      "price": 7296
     },
     {
       "secid": "RIU6",
@@ -989,9 +989,9 @@
       "assetCode": "RTS",
       "expiry": "2026-09-17",
       "minStep": 10,
-      "stepPrice": 17.0329,
-      "margin": 21328.89,
-      "price": 80420
+      "stepPrice": 17.02586,
+      "margin": 21814.88,
+      "price": 82400
     },
     {
       "secid": "RLU6",
@@ -1000,8 +1000,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 476.22,
-      "price": 2676
+      "margin": 490.25,
+      "price": 2760
     },
     {
       "secid": "RMU6",
@@ -1009,9 +1009,9 @@
       "assetCode": "RTSM",
       "expiry": "2026-09-17",
       "minStep": 0.5,
-      "stepPrice": 8.51645,
-      "margin": 2132.36,
-      "price": 804
+      "stepPrice": 8.51293,
+      "margin": 2180.17,
+      "price": 823.5
     },
     {
       "secid": "RNU6",
@@ -1020,8 +1020,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 6598.59,
-      "price": 31833
+      "margin": 6636.09,
+      "price": 32042
     },
     {
       "secid": "RQU6",
@@ -1030,8 +1030,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1114.55,
-      "price": 4327
+      "margin": 1141.66,
+      "price": 4437
     },
     {
       "secid": "RTU6",
@@ -1040,8 +1040,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 744.19,
-      "price": 4189
+      "margin": 762.62,
+      "price": 4306
     },
     {
       "secid": "RUU6",
@@ -1050,8 +1050,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 212.71,
-      "price": 828
+      "margin": 214.95,
+      "price": 837
     },
     {
       "secid": "RZU6",
@@ -1060,8 +1060,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2031.13,
-      "price": 7880
+      "margin": 2080.77,
+      "price": 8124
     },
     {
       "secid": "S0U6",
@@ -1070,8 +1070,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 178.93,
-      "price": 531
+      "margin": 187.39,
+      "price": 556
     },
     {
       "secid": "S2U6",
@@ -1080,8 +1080,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 3606.32,
-      "price": 173.39
+      "margin": 3624.12,
+      "price": 174.69
     },
     {
       "secid": "SCU6",
@@ -1090,8 +1090,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 181.48,
-      "price": 1023
+      "margin": 183.35,
+      "price": 1036
     },
     {
       "secid": "SEU6",
@@ -1100,8 +1100,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 600,
-      "price": 1215
+      "margin": 610,
+      "price": 1235
     },
     {
       "secid": "SGU6",
@@ -1110,8 +1110,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 8774.42,
-      "price": 42342
+      "margin": 8569.81,
+      "price": 41319
     },
     {
       "secid": "SHU6",
@@ -1120,8 +1120,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.2,
       "stepPrice": 0.2,
-      "margin": 208.24,
-      "price": 591.2
+      "margin": 211.79,
+      "price": 604
     },
     {
       "secid": "SiU6",
@@ -1130,8 +1130,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 13244,
-      "price": 85440
+      "margin": 13216.11,
+      "price": 84060
     },
     {
       "secid": "SNU6",
@@ -1140,8 +1140,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3300.23,
-      "price": 15908
+      "margin": 3289.64,
+      "price": 15871
     },
     {
       "secid": "SOU6",
@@ -1150,8 +1150,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 872.96,
-      "price": 4652
+      "margin": 903.49,
+      "price": 4819
     },
     {
       "secid": "SPU6",
@@ -1160,8 +1160,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 4973.87,
-      "price": 28028
+      "margin": 4980.75,
+      "price": 28079
     },
     {
       "secid": "SRU6",
@@ -1170,8 +1170,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 4966.78,
-      "price": 27978
+      "margin": 4969.04,
+      "price": 28040
     },
     {
       "secid": "SSU6",
@@ -1180,8 +1180,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 180.79,
-      "price": 355
+      "margin": 190.46,
+      "price": 373
     },
     {
       "secid": "SZU6",
@@ -1190,8 +1190,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 506.44,
-      "price": 689
+      "margin": 518.21,
+      "price": 702
     },
     {
       "secid": "TBU6",
@@ -1200,8 +1200,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 472.68,
-      "price": 2631
+      "margin": 474.34,
+      "price": 2645
     },
     {
       "secid": "TNU6",
@@ -1210,8 +1210,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 216.57,
-      "price": 1045
+      "margin": 216.34,
+      "price": 1044
     },
     {
       "secid": "TPU6",
@@ -1220,8 +1220,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1058.33,
-      "price": 5102
+      "margin": 1082.79,
+      "price": 5233
     },
     {
       "secid": "TRU6",
@@ -1229,8 +1229,8 @@
       "assetCode": "UTRY",
       "expiry": "2026-09-17",
       "minStep": 0.0001,
-      "stepPrice": 0.17797,
-      "margin": 29019.39,
+      "stepPrice": 0.17783,
+      "margin": 28958.06,
       "price": 48.2473
     },
     {
@@ -1240,8 +1240,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 9251.4,
-      "price": 52119
+      "margin": 9525.59,
+      "price": 53692
     },
     {
       "secid": "TYU6",
@@ -1250,8 +1250,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 551.9,
-      "price": 1.721
+      "margin": 550.47,
+      "price": 1.671
     },
     {
       "secid": "UCU6",
@@ -1259,9 +1259,9 @@
       "assetCode": "UCNY",
       "expiry": "2026-09-17",
       "minStep": 0.001,
-      "stepPrice": 12.5907,
-      "margin": 8139.12,
-      "price": 6.737
+      "stepPrice": 12.4363,
+      "margin": 8008.8,
+      "price": 6.721
     },
     {
       "secid": "UMU6",
@@ -1270,8 +1270,8 @@
       "expiry": "2026-09-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1328.71,
-      "price": 85.45
+      "margin": 1306.28,
+      "price": 84.11
     },
     {
       "secid": "UNU6",
@@ -1280,8 +1280,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2040.27,
-      "price": 9842
+      "margin": 2144.96,
+      "price": 10359
     },
     {
       "secid": "UTU6",
@@ -1290,7 +1290,7 @@
       "expiry": "2026-09-17",
       "minStep": 0.1,
       "stepPrice": 19,
-      "margin": 16964.09,
+      "margin": 16943.36,
       "price": 499.3
     },
     {
@@ -1300,8 +1300,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 958.66,
-      "price": 5399
+      "margin": 972.22,
+      "price": 5487
     },
     {
       "secid": "VIU6",
@@ -1309,9 +1309,9 @@
       "assetCode": "RVI",
       "expiry": "2026-09-17",
       "minStep": 0.05,
-      "stepPrice": 8.51645,
-      "margin": 3029.67,
-      "price": 38.6
+      "stepPrice": 8.51293,
+      "margin": 2943.87,
+      "price": 37.85
     },
     {
       "secid": "VKU6",
@@ -1320,8 +1320,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 364.36,
-      "price": 1362
+      "margin": 366.45,
+      "price": 1372
     },
     {
       "secid": "WUU6",
@@ -1330,8 +1330,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 153.35,
-      "price": 455
+      "margin": 157.13,
+      "price": 466
     },
     {
       "secid": "X5U6",
@@ -1340,8 +1340,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 356.11,
-      "price": 2006
+      "margin": 352.86,
+      "price": 1991
     },
     {
       "secid": "YDU6",
@@ -1350,8 +1350,8 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 666.39,
-      "price": 3755
+      "margin": 671.54,
+      "price": 3790
     },
     {
       "secid": "A2U6",
@@ -1359,9 +1359,9 @@
       "assetCode": "ASML",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3978.44,
-      "price": 1797.2
+      "stepPrice": 0.85129,
+      "margin": 3904.56,
+      "price": 1766.1
     },
     {
       "secid": "AAU6",
@@ -1369,8 +1369,8 @@
       "assetCode": "AFRICA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 770.27,
+      "stepPrice": 0.85129,
+      "margin": 768.72,
       "price": 68.1
     },
     {
@@ -1379,8 +1379,8 @@
       "assetCode": "ARGT",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1131.52,
+      "stepPrice": 0.85129,
+      "margin": 1129.37,
       "price": 92.03
     },
     {
@@ -1389,9 +1389,9 @@
       "assetCode": "SAP",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 4917.07,
-      "price": 212.66
+      "stepPrice": 0.85129,
+      "margin": 5040.53,
+      "price": 218.28
     },
     {
       "secid": "BBU6",
@@ -1399,9 +1399,9 @@
       "assetCode": "ALIBABA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1823.17,
-      "price": 127.82
+      "stepPrice": 0.85129,
+      "margin": 1850.66,
+      "price": 129.97
     },
     {
       "secid": "BDU6",
@@ -1409,9 +1409,9 @@
       "assetCode": "BAIDU",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1407.07,
-      "price": 92.28
+      "stepPrice": 0.85129,
+      "margin": 1426.22,
+      "price": 93.69
     },
     {
       "secid": "BZU6",
@@ -1419,9 +1419,9 @@
       "assetCode": "BRAZIL",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 453.89,
-      "price": 34.18
+      "stepPrice": 0.85129,
+      "margin": 456.39,
+      "price": 34.43
     },
     {
       "secid": "CIU6",
@@ -1429,9 +1429,9 @@
       "assetCode": "CHINA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 623.46,
-      "price": 55.12
+      "stepPrice": 0.85129,
+      "margin": 623.11,
+      "price": 55.2
     },
     {
       "secid": "DDU6",
@@ -1439,9 +1439,9 @@
       "assetCode": "PDD",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 4320.59,
-      "price": 86.94
+      "stepPrice": 0.85129,
+      "margin": 4455.93,
+      "price": 89.75
     },
     {
       "secid": "DJU6",
@@ -1449,9 +1449,9 @@
       "assetCode": "DJ30",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 5496.81,
-      "price": 532.3
+      "stepPrice": 8.51293,
+      "margin": 5512.89,
+      "price": 535
     },
     {
       "secid": "DXU6",
@@ -1459,9 +1459,9 @@
       "assetCode": "DAX",
       "expiry": "2026-09-18",
       "minStep": 1,
-      "stepPrice": 0.98731,
-      "margin": 2083.24,
-      "price": 21500
+      "stepPrice": 0.98546,
+      "margin": 2077.69,
+      "price": 21528
     },
     {
       "secid": "EMU6",
@@ -1469,9 +1469,9 @@
       "assetCode": "EM",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 678.98,
-      "price": 65.75
+      "stepPrice": 0.85129,
+      "margin": 684.84,
+      "price": 66.46
     },
     {
       "secid": "ETU6",
@@ -1479,9 +1479,9 @@
       "assetCode": "ETHA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 509.67,
-      "price": 14.59
+      "stepPrice": 0.85129,
+      "margin": 553.11,
+      "price": 15.85
     },
     {
       "secid": "GDU6",
@@ -1489,9 +1489,9 @@
       "assetCode": "GOLD",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 32272.25,
-      "price": 4376.6
+      "stepPrice": 8.51293,
+      "margin": 33119.63,
+      "price": 4503.9
     },
     {
       "secid": "GNU6",
@@ -1499,9 +1499,9 @@
       "assetCode": "GOLDM",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3227.47,
-      "price": 4376.9
+      "stepPrice": 0.85129,
+      "margin": 3311.33,
+      "price": 4503.1
     },
     {
       "secid": "HSU6",
@@ -1509,9 +1509,9 @@
       "assetCode": "HANG",
       "expiry": "2026-09-18",
       "minStep": 1,
-      "stepPrice": 0.10856,
-      "margin": 279.56,
-      "price": 26239
+      "stepPrice": 0.10854,
+      "margin": 282.05,
+      "price": 26532
     },
     {
       "secid": "HXU6",
@@ -1519,9 +1519,9 @@
       "assetCode": "HYNIX",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2332.34,
-      "price": 1156.4
+      "stepPrice": 0.85129,
+      "margin": 2406.06,
+      "price": 1194.6
     },
     {
       "secid": "IBU6",
@@ -1529,9 +1529,9 @@
       "assetCode": "IBIT",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 816.66,
-      "price": 36.89
+      "stepPrice": 0.85129,
+      "margin": 857.37,
+      "price": 38.78
     },
     {
       "secid": "JDU6",
@@ -1539,9 +1539,9 @@
       "assetCode": "JDCOM",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 6889.44,
-      "price": 28.58
+      "stepPrice": 8.51293,
+      "margin": 7042.17,
+      "price": 29.25
     },
     {
       "secid": "KRU6",
@@ -1549,9 +1549,9 @@
       "assetCode": "KOREA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1945.24,
-      "price": 171.98
+      "stepPrice": 0.85129,
+      "margin": 1970.45,
+      "price": 174.56
     },
     {
       "secid": "LDU6",
@@ -1559,9 +1559,9 @@
       "assetCode": "PLDM",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2500.16,
-      "price": 1303.2
+      "stepPrice": 0.85129,
+      "margin": 2566.52,
+      "price": 1339.7
     },
     {
       "secid": "LTU6",
@@ -1569,9 +1569,9 @@
       "assetCode": "PLTM",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2839.96,
-      "price": 1749.6
+      "stepPrice": 0.85129,
+      "margin": 2943.25,
+      "price": 1816.1
     },
     {
       "secid": "N2U6",
@@ -1580,8 +1580,8 @@
       "expiry": "2026-09-18",
       "minStep": 1,
       "stepPrice": 0.0534,
-      "margin": 574.84,
-      "price": 68439
+      "margin": 573.96,
+      "price": 68422
     },
     {
       "secid": "NAU6",
@@ -1589,9 +1589,9 @@
       "assetCode": "NASD",
       "expiry": "2026-09-18",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 3044.69,
-      "price": 29484
+      "stepPrice": 0.85129,
+      "margin": 3035.48,
+      "price": 29458
     },
     {
       "secid": "NDU6",
@@ -1599,9 +1599,9 @@
       "assetCode": "INDIA",
       "expiry": "2026-09-18",
       "minStep": 0.001,
-      "stepPrice": 0.85165,
-      "margin": 919.69,
-      "price": 8.906
+      "stepPrice": 0.85129,
+      "margin": 917.41,
+      "price": 8.903
     },
     {
       "secid": "NOU6",
@@ -1609,9 +1609,9 @@
       "assetCode": "NOVARTIS",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 2040.04,
-      "price": 153.63
+      "stepPrice": 0.85129,
+      "margin": 2107.61,
+      "price": 159
     },
     {
       "secid": "PDU6",
@@ -1619,9 +1619,9 @@
       "assetCode": "PLD",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 24975.65,
-      "price": 1301.85
+      "stepPrice": 0.85129,
+      "margin": 25666.58,
+      "price": 1339.78
     },
     {
       "secid": "PTU6",
@@ -1629,9 +1629,9 @@
       "assetCode": "PLT",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 28373.4,
-      "price": 1748
+      "stepPrice": 8.51293,
+      "margin": 29447.12,
+      "price": 1817
     },
     {
       "secid": "R2U6",
@@ -1639,9 +1639,9 @@
       "assetCode": "R2000",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 3102.09,
-      "price": 300.4
+      "stepPrice": 8.51293,
+      "margin": 3112.98,
+      "price": 302.1
     },
     {
       "secid": "S1U6",
@@ -1649,9 +1649,9 @@
       "assetCode": "SILVM",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1154.42,
-      "price": 64.44
+      "stepPrice": 0.85129,
+      "margin": 1187.4,
+      "price": 66.28
     },
     {
       "secid": "SDU6",
@@ -1659,9 +1659,9 @@
       "assetCode": "SAUDI",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 392.83,
-      "price": 38.04
+      "stepPrice": 0.85129,
+      "margin": 392.4,
+      "price": 38.08
     },
     {
       "secid": "SFU6",
@@ -1669,9 +1669,9 @@
       "assetCode": "SPYF",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 7929.73,
-      "price": 767.9
+      "stepPrice": 0.85129,
+      "margin": 7937.5,
+      "price": 770.3
     },
     {
       "secid": "SKU6",
@@ -1679,9 +1679,9 @@
       "assetCode": "SAMSUNG",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 3646.15,
-      "price": 180.78
+      "stepPrice": 0.85129,
+      "margin": 3707.97,
+      "price": 184.1
     },
     {
       "secid": "SQU6",
@@ -1689,9 +1689,9 @@
       "assetCode": "SOXQ",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1063.11,
-      "price": 93.99
+      "stepPrice": 0.85129,
+      "margin": 1046.52,
+      "price": 92.71
     },
     {
       "secid": "SVU6",
@@ -1699,9 +1699,9 @@
       "assetCode": "SILV",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 11728.33,
-      "price": 64.44
+      "stepPrice": 8.51293,
+      "margin": 12045.59,
+      "price": 66.28
     },
     {
       "secid": "SXU6",
@@ -1709,9 +1709,9 @@
       "assetCode": "STOX",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 0.09873,
-      "margin": 934.32,
-      "price": 6555
+      "stepPrice": 0.09855,
+      "margin": 928.92,
+      "price": 6538.7
     },
     {
       "secid": "SYU6",
@@ -1719,9 +1719,9 @@
       "assetCode": "SONY",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 5674.51,
-      "price": 23.54
+      "stepPrice": 8.51293,
+      "margin": 5712,
+      "price": 23.73
     },
     {
       "secid": "TCU6",
@@ -1729,9 +1729,9 @@
       "assetCode": "TENCENT",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 10.8559,
-      "margin": 6914.66,
-      "price": 441.2
+      "stepPrice": 10.8542,
+      "margin": 7012.92,
+      "price": 448.2
     },
     {
       "secid": "TLU6",
@@ -1739,9 +1739,9 @@
       "assetCode": "TLT",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 5217.74,
-      "price": 81.66
+      "stepPrice": 8.51293,
+      "margin": 5302.86,
+      "price": 83.25
     },
     {
       "secid": "TOU6",
@@ -1749,9 +1749,9 @@
       "assetCode": "TOYOTA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 3261.02,
-      "price": 189.42
+      "stepPrice": 0.85129,
+      "margin": 3192.71,
+      "price": 185.73
     },
     {
       "secid": "TSU6",
@@ -1759,9 +1759,9 @@
       "assetCode": "TSM",
       "expiry": "2026-09-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 8835.65,
-      "price": 417.7
+      "stepPrice": 8.51293,
+      "margin": 8793.22,
+      "price": 416.3
     },
     {
       "secid": "XIU6",
@@ -1769,9 +1769,9 @@
       "assetCode": "XIA",
       "expiry": "2026-09-18",
       "minStep": 0.01,
-      "stepPrice": 10.8559,
-      "margin": 4747.22,
-      "price": 26.11
+      "stepPrice": 10.8542,
+      "margin": 4996.33,
+      "price": 27.52
     },
     {
       "secid": "WTU6",
@@ -1779,9 +1779,9 @@
       "assetCode": "WTI",
       "expiry": "2026-09-22",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 18560.72,
-      "price": 84.65
+      "stepPrice": 8.51293,
+      "margin": 18701.04,
+      "price": 86.22
     },
     {
       "secid": "HOU6",
@@ -1790,8 +1790,8 @@
       "expiry": "2026-09-23",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2741.83,
-      "price": 39050
+      "margin": 2749.26,
+      "price": 39320
     },
     {
       "secid": "BTU6",
@@ -1799,9 +1799,9 @@
       "assetCode": "BTC",
       "expiry": "2026-09-25",
       "minStep": 1,
-      "stepPrice": 0.08516,
-      "margin": 1423.06,
-      "price": 65150
+      "stepPrice": 0.08513,
+      "margin": 1500.41,
+      "price": 68694
     },
     {
       "secid": "EHU6",
@@ -1809,9 +1809,9 @@
       "assetCode": "ETH",
       "expiry": "2026-09-25",
       "minStep": 0.1,
-      "stepPrice": 0.08516,
-      "margin": 666.12,
-      "price": 1926.8
+      "stepPrice": 0.08513,
+      "margin": 723.09,
+      "price": 2090.2
     },
     {
       "secid": "S3U6",
@@ -1819,9 +1819,9 @@
       "assetCode": "SOL",
       "expiry": "2026-09-25",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 2938.07,
-      "price": 78.04
+      "stepPrice": 0.85129,
+      "margin": 3122.88,
+      "price": 82.43
     },
     {
       "secid": "TXU6",
@@ -1829,9 +1829,9 @@
       "assetCode": "TRX",
       "expiry": "2026-09-25",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 1003.69,
-      "price": 0.3328
+      "stepPrice": 0.85129,
+      "margin": 1007.21,
+      "price": 0.3365
     },
     {
       "secid": "XRU6",
@@ -1839,9 +1839,9 @@
       "assetCode": "XRP",
       "expiry": "2026-09-25",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 4320.29,
-      "price": 1.0092
+      "stepPrice": 0.85129,
+      "margin": 4607.76,
+      "price": 1.0762
     },
     {
       "secid": "NGU6",
@@ -1849,9 +1849,9 @@
       "assetCode": "NG",
       "expiry": "2026-09-28",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 6967.91,
-      "price": 2.785
+      "stepPrice": 8.51293,
+      "margin": 7187.47,
+      "price": 2.846
     },
     {
       "secid": "NRU6",
@@ -1859,9 +1859,9 @@
       "assetCode": "NGM",
       "expiry": "2026-09-28",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 69.66,
-      "price": 2.787
+      "stepPrice": 0.08513,
+      "margin": 71.84,
+      "price": 2.849
     },
     {
       "secid": "92U6",
@@ -1870,8 +1870,8 @@
       "expiry": "2026-09-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 8352.13,
-      "price": 76260
+      "margin": 8317.38,
+      "price": 76220
     },
     {
       "secid": "95U6",
@@ -1880,7 +1880,7 @@
       "expiry": "2026-09-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 9635.22,
+      "margin": 9616.09,
       "price": 80500
     },
     {
@@ -1890,8 +1890,8 @@
       "expiry": "2026-09-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 8345.4,
-      "price": 74590
+      "margin": 8361.29,
+      "price": 74790
     },
     {
       "secid": "FFU6",
@@ -1899,9 +1899,9 @@
       "assetCode": "TTF",
       "expiry": "2026-09-30",
       "minStep": 0.005,
-      "stepPrice": 0.49366,
-      "margin": 3295.89,
-      "price": 63.935
+      "stepPrice": 0.49273,
+      "margin": 3259.2,
+      "price": 63.5
     },
     {
       "secid": "MFU6",
@@ -1930,8 +1930,8 @@
       "expiry": "2026-09-30",
       "minStep": 0.01,
       "stepPrice": 10.16,
-      "margin": 4655.44,
-      "price": 33.2
+      "margin": 4597.32,
+      "price": 32.83
     },
     {
       "secid": "W4U6",
@@ -1940,8 +1940,8 @@
       "expiry": "2026-09-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1679.77,
-      "price": 11540
+      "margin": 1275.17,
+      "price": 11900
     },
     {
       "secid": "BMV6",
@@ -1949,9 +1949,9 @@
       "assetCode": "BRM",
       "expiry": "2026-10-01",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1841.12,
-      "price": 90.19
+      "stepPrice": 0.85129,
+      "margin": 1846.15,
+      "price": 90.62
     },
     {
       "secid": "BRV6",
@@ -1959,9 +1959,9 @@
       "assetCode": "BR",
       "expiry": "2026-10-01",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 18411.48,
-      "price": 90.23
+      "stepPrice": 8.51293,
+      "margin": 18465.78,
+      "price": 90.66
     },
     {
       "secid": "SuV6",
@@ -1970,8 +1970,8 @@
       "expiry": "2026-10-15",
       "minStep": 10,
       "stepPrice": 1,
-      "margin": 1131.67,
-      "price": 65700
+      "margin": 1110.7,
+      "price": 64330
     },
     {
       "secid": "VIV6",
@@ -1979,9 +1979,9 @@
       "assetCode": "RVI",
       "expiry": "2026-10-15",
       "minStep": 0.05,
-      "stepPrice": 8.51645,
-      "margin": 3108.87,
-      "price": 37.85
+      "stepPrice": 8.51293,
+      "margin": 2989.58,
+      "price": 38.4
     },
     {
       "secid": "WTV6",
@@ -1989,9 +1989,9 @@
       "assetCode": "WTI",
       "expiry": "2026-10-20",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 19291.91,
-      "price": 83.71
+      "stepPrice": 8.51293,
+      "margin": 19435.41,
+      "price": 83.63
     },
     {
       "secid": "NGV6",
@@ -1999,9 +1999,9 @@
       "assetCode": "NG",
       "expiry": "2026-10-28",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7308.28,
-      "price": 3.014
+      "stepPrice": 8.51293,
+      "margin": 7543.29,
+      "price": 3.057
     },
     {
       "secid": "NRV6",
@@ -2009,9 +2009,9 @@
       "assetCode": "NGM",
       "expiry": "2026-10-28",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 73.07,
-      "price": 3.019
+      "stepPrice": 0.08513,
+      "margin": 75.42,
+      "price": 3.069
     },
     {
       "secid": "92V6",
@@ -2020,8 +2020,8 @@
       "expiry": "2026-10-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 8862.67,
-      "price": 75950
+      "margin": 8844.98,
+      "price": 75830
     },
     {
       "secid": "95V6",
@@ -2030,8 +2030,8 @@
       "expiry": "2026-10-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 10199,
-      "price": 81310
+      "margin": 10218.3,
+      "price": 82370
     },
     {
       "secid": "DLV6",
@@ -2040,8 +2040,8 @@
       "expiry": "2026-10-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 8850.43,
-      "price": 74550
+      "margin": 8887.07,
+      "price": 74800
     },
     {
       "secid": "BTV6",
@@ -2049,9 +2049,9 @@
       "assetCode": "BTC",
       "expiry": "2026-10-30",
       "minStep": 1,
-      "stepPrice": 0.08516,
-      "margin": 1438.95,
-      "price": 65550
+      "stepPrice": 0.08513,
+      "margin": 1517.04,
+      "price": 69003
     },
     {
       "secid": "EHV6",
@@ -2059,9 +2059,9 @@
       "assetCode": "ETH",
       "expiry": "2026-10-30",
       "minStep": 0.1,
-      "stepPrice": 0.08516,
-      "margin": 671.33,
-      "price": 1941.8
+      "stepPrice": 0.08513,
+      "margin": 728.67,
+      "price": 2095.6
     },
     {
       "secid": "FFV6",
@@ -2069,9 +2069,9 @@
       "assetCode": "TTF",
       "expiry": "2026-10-30",
       "minStep": 0.005,
-      "stepPrice": 0.49366,
-      "margin": 3381.4,
-      "price": 65.895
+      "stepPrice": 0.49273,
+      "margin": 3348.09,
+      "price": 65.485
     },
     {
       "secid": "S3V6",
@@ -2079,9 +2079,9 @@
       "assetCode": "SOL",
       "expiry": "2026-10-30",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 3232.79,
-      "price": 77.7
+      "stepPrice": 0.85129,
+      "margin": 3165.44,
+      "price": 84.6
     },
     {
       "secid": "TXV6",
@@ -2089,9 +2089,9 @@
       "assetCode": "TRX",
       "expiry": "2026-10-30",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 1017.69,
-      "price": 0.3279
+      "stepPrice": 0.85129,
+      "margin": 1022.59,
+      "price": 0.3345
     },
     {
       "secid": "W4V6",
@@ -2100,8 +2100,8 @@
       "expiry": "2026-10-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1778.19,
-      "price": 12730
+      "margin": 1379.61,
+      "price": 13280
     },
     {
       "secid": "XRV6",
@@ -2109,9 +2109,9 @@
       "assetCode": "XRP",
       "expiry": "2026-10-30",
       "minStep": 0.0001,
-      "stepPrice": 0.85165,
-      "margin": 4370.4,
-      "price": 1.0299
+      "stepPrice": 0.85129,
+      "margin": 4663.94,
+      "price": 1.0906
     },
     {
       "secid": "BMX6",
@@ -2119,9 +2119,9 @@
       "assetCode": "BRM",
       "expiry": "2026-11-02",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1798.68,
-      "price": 87.97
+      "stepPrice": 0.85129,
+      "margin": 1806.06,
+      "price": 88.35
     },
     {
       "secid": "BRX6",
@@ -2129,9 +2129,9 @@
       "assetCode": "BR",
       "expiry": "2026-11-02",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 17987.67,
-      "price": 88.03
+      "stepPrice": 8.51293,
+      "margin": 18064.19,
+      "price": 88.35
     },
     {
       "secid": "OJX6",
@@ -2139,9 +2139,9 @@
       "assetCode": "ORANGE",
       "expiry": "2026-11-02",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 2698.4,
-      "price": 1.591
+      "stepPrice": 8.51293,
+      "margin": 2677.35,
+      "price": 1.571
     },
     {
       "secid": "KCX6",
@@ -2149,9 +2149,9 @@
       "assetCode": "COFFEE",
       "expiry": "2026-11-19",
       "minStep": 0.001,
-      "stepPrice": 0.85165,
-      "margin": 415.43,
-      "price": 3.348
+      "stepPrice": 0.85129,
+      "margin": 417.21,
+      "price": 3.375
     },
     {
       "secid": "WTX6",
@@ -2159,9 +2159,9 @@
       "assetCode": "WTI",
       "expiry": "2026-11-20",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 19398.17,
-      "price": 83.39
+      "stepPrice": 8.51293,
+      "margin": 19564.01,
+      "price": 84.95
     },
     {
       "secid": "CCX6",
@@ -2170,8 +2170,8 @@
       "expiry": "2026-11-23",
       "minStep": 0.1,
       "stepPrice": 1,
-      "margin": 964.78,
-      "price": 510
+      "margin": 966.07,
+      "price": 509.6
     },
     {
       "secid": "NGX6",
@@ -2179,9 +2179,9 @@
       "assetCode": "NG",
       "expiry": "2026-11-25",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7424.32,
-      "price": 3.61
+      "stepPrice": 8.51293,
+      "margin": 7649.4,
+      "price": 3.631
     },
     {
       "secid": "NRX6",
@@ -2189,9 +2189,59 @@
       "assetCode": "NGM",
       "expiry": "2026-11-25",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 74.27,
-      "price": 3.633
+      "stepPrice": 0.08513,
+      "margin": 76.52,
+      "price": 3.657
+    },
+    {
+      "secid": "BTX6",
+      "name": "BTC-11.26",
+      "assetCode": "BTC",
+      "expiry": "2026-11-27",
+      "minStep": 1,
+      "stepPrice": 0.08513,
+      "margin": 1530.64,
+      "price": 65573
+    },
+    {
+      "secid": "EHX6",
+      "name": "ETH-11.26",
+      "assetCode": "ETH",
+      "expiry": "2026-11-27",
+      "minStep": 0.1,
+      "stepPrice": 0.08513,
+      "margin": 732.96,
+      "price": 1938.8
+    },
+    {
+      "secid": "S3X6",
+      "name": "SOL-11.26",
+      "assetCode": "SOL",
+      "expiry": "2026-11-27",
+      "minStep": 0.01,
+      "stepPrice": 0.85129,
+      "margin": 3142.67,
+      "price": 77.91
+    },
+    {
+      "secid": "TXX6",
+      "name": "TRX-11.26",
+      "assetCode": "TRX",
+      "expiry": "2026-11-27",
+      "minStep": 0.0001,
+      "stepPrice": 0.85129,
+      "margin": 1016.12,
+      "price": 0.3358
+    },
+    {
+      "secid": "XRX6",
+      "name": "XRP-11.26",
+      "assetCode": "XRP",
+      "expiry": "2026-11-27",
+      "minStep": 0.0001,
+      "stepPrice": 0.85129,
+      "margin": 4634.49,
+      "price": 1.0144
     },
     {
       "secid": "W4X6",
@@ -2200,8 +2250,8 @@
       "expiry": "2026-11-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1829.12,
-      "price": 13860
+      "margin": 1423.81,
+      "price": 14140
     },
     {
       "secid": "BMZ6",
@@ -2209,9 +2259,9 @@
       "assetCode": "BRM",
       "expiry": "2026-12-01",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1816.24,
-      "price": 86.07
+      "stepPrice": 0.85129,
+      "margin": 1822.38,
+      "price": 86.43
     },
     {
       "secid": "BRZ6",
@@ -2219,9 +2269,9 @@
       "assetCode": "BR",
       "expiry": "2026-12-01",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 18158.79,
-      "price": 85.89
+      "stepPrice": 8.51293,
+      "margin": 18228.35,
+      "price": 86.48
     },
     {
       "secid": "RBZ6",
@@ -2230,8 +2280,8 @@
       "expiry": "2026-12-01",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1243.47,
-      "price": 11452
+      "margin": 1244.14,
+      "price": 11472
     },
     {
       "secid": "RFZ6",
@@ -2240,7 +2290,7 @@
       "expiry": "2026-12-01",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 1289.19,
+      "margin": 1286.12,
       "price": 4.6286
     },
     {
@@ -2249,9 +2299,9 @@
       "assetCode": "ALUM",
       "expiry": "2026-12-15",
       "minStep": 0.5,
-      "stepPrice": 4.25823,
-      "margin": 3769.42,
-      "price": 3219.5
+      "stepPrice": 4.25647,
+      "margin": 3779.41,
+      "price": 3227
     },
     {
       "secid": "CEZ6",
@@ -2259,9 +2309,9 @@
       "assetCode": "COPPER",
       "expiry": "2026-12-15",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 1645.05,
-      "price": 14122
+      "stepPrice": 0.85129,
+      "margin": 1648.45,
+      "price": 14151
     },
     {
       "secid": "NCZ6",
@@ -2269,9 +2319,9 @@
       "assetCode": "NICKEL",
       "expiry": "2026-12-15",
       "minStep": 5,
-      "stepPrice": 4.25823,
-      "margin": 2782.82,
-      "price": 17110
+      "stepPrice": 4.25647,
+      "margin": 2841.07,
+      "price": 17350
     },
     {
       "secid": "ZCZ6",
@@ -2279,9 +2329,9 @@
       "assetCode": "ZINC",
       "expiry": "2026-12-15",
       "minStep": 0.5,
-      "stepPrice": 4.25823,
-      "margin": 4343.15,
-      "price": 3708
+      "stepPrice": 4.25647,
+      "margin": 4361.83,
+      "price": 3709
     },
     {
       "secid": "ABZ6",
@@ -2290,7 +2340,7 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 539.1,
+      "margin": 538.74,
       "price": 1940
     },
     {
@@ -2300,8 +2350,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 3741.77,
-      "price": 23.714
+      "margin": 3679.81,
+      "price": 23.332
     },
     {
       "secid": "AFZ6",
@@ -2310,8 +2360,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 932.52,
-      "price": 3456
+      "margin": 954.95,
+      "price": 3540
     },
     {
       "secid": "AKZ6",
@@ -2320,8 +2370,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2297.77,
-      "price": 8598
+      "margin": 2311.5,
+      "price": 8678
     },
     {
       "secid": "ALZ6",
@@ -2330,8 +2380,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 533.9,
-      "price": 1999
+      "margin": 543.35,
+      "price": 2021
     },
     {
       "secid": "ARZ6",
@@ -2340,8 +2390,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 7026.23,
-      "price": 22.733
+      "margin": 7024.6,
+      "price": 22.749
     },
     {
       "secid": "ASZ6",
@@ -2350,8 +2400,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 64.28,
-      "price": 192
+      "margin": 57.24,
+      "price": 210
     },
     {
       "secid": "AUZ6",
@@ -2359,9 +2409,9 @@
       "assetCode": "AUDU",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 8365.43,
-      "price": 0.7106
+      "stepPrice": 8.51293,
+      "margin": 8384.43,
+      "price": 0.7129
     },
     {
       "secid": "BNZ6",
@@ -2370,8 +2420,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 419.46,
-      "price": 1177
+      "margin": 439.14,
+      "price": 1231
     },
     {
       "secid": "BSZ6",
@@ -2380,8 +2430,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 675.36,
-      "price": 2387
+      "margin": 680.78,
+      "price": 2411
     },
     {
       "secid": "BYZ6",
@@ -2390,7 +2440,7 @@
       "expiry": "2026-12-17",
       "minStep": 0.01,
       "stepPrice": 10,
-      "margin": 4524.61,
+      "margin": 4509.37,
       "price": 29.07
     },
     {
@@ -2399,9 +2449,9 @@
       "assetCode": "UCAD",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 6.14241,
-      "margin": 11093.85,
-      "price": 1.3868
+      "stepPrice": 6.12926,
+      "margin": 11025.37,
+      "price": 1.3821
     },
     {
       "secid": "CFZ6",
@@ -2409,9 +2459,9 @@
       "assetCode": "UCHF",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 10.4947,
-      "margin": 9191.17,
-      "price": 0.8063
+      "stepPrice": 10.49813,
+      "margin": 9054.69,
+      "price": 0.793
     },
     {
       "secid": "CKZ6",
@@ -2420,8 +2470,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1436.62,
-      "price": 6510
+      "margin": 1495.41,
+      "price": 6780
     },
     {
       "secid": "CMZ6",
@@ -2430,8 +2480,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5001.9,
-      "price": 12060
+      "margin": 4673.86,
+      "price": 11799
     },
     {
       "secid": "CRZ6",
@@ -2440,8 +2490,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1315.4,
-      "price": 12.906
+      "margin": 1298.1,
+      "price": 12.74
     },
     {
       "secid": "CSZ6",
@@ -2450,8 +2500,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 701.79,
-      "price": 5295
+      "margin": 712.74,
+      "price": 5475
     },
     {
       "secid": "DRZ6",
@@ -2460,8 +2510,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 598.34,
-      "price": 2234
+      "margin": 597.48,
+      "price": 2244
     },
     {
       "secid": "EAZ6",
@@ -2470,8 +2520,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 827.77,
-      "price": 3108
+      "margin": 853.5,
+      "price": 3211
     },
     {
       "secid": "ECZ6",
@@ -2479,8 +2529,8 @@
       "assetCode": "ECAD",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 6.14241,
-      "margin": 14286.22,
+      "stepPrice": 6.12926,
+      "margin": 14247.08,
       "price": 1.6255
     },
     {
@@ -2489,9 +2539,9 @@
       "assetCode": "ED",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 6775.11,
-      "price": 1.1573
+      "stepPrice": 8.51293,
+      "margin": 6811.06,
+      "price": 1.1643
     },
     {
       "secid": "EGZ6",
@@ -2499,8 +2549,8 @@
       "assetCode": "EGBP",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 11.54234,
-      "margin": 12715.1,
+      "stepPrice": 11.52906,
+      "margin": 12692.85,
       "price": 0.91
     },
     {
@@ -2509,8 +2559,8 @@
       "assetCode": "EJPY",
       "expiry": "2026-12-17",
       "minStep": 0.01,
-      "stepPrice": 5.3401,
-      "margin": 11509.5,
+      "stepPrice": 5.3403,
+      "margin": 11503.03,
       "price": 181.13
     },
     {
@@ -2520,8 +2570,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1589.94,
-      "price": 100.51
+      "margin": 1574.5,
+      "price": 99.8
     },
     {
       "secid": "EuZ6",
@@ -2530,8 +2580,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 16087.59,
-      "price": 100640
+      "margin": 16043.44,
+      "price": 99697
     },
     {
       "secid": "FEZ6",
@@ -2540,8 +2590,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1717.84,
-      "price": 6420
+      "margin": 1715.92,
+      "price": 6410
     },
     {
       "secid": "FIZ6",
@@ -2550,8 +2600,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1445.38,
-      "price": 4164
+      "margin": 1468.95,
+      "price": 4077
     },
     {
       "secid": "FLZ6",
@@ -2560,8 +2610,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1700.19,
-      "price": 7666
+      "margin": 1679.6,
+      "price": 7601
     },
     {
       "secid": "FNZ6",
@@ -2570,8 +2620,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1495.01,
-      "price": 9216
+      "margin": 1475.22,
+      "price": 9194
     },
     {
       "secid": "FSZ6",
@@ -2580,8 +2630,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1164.7,
-      "price": 5356
+      "margin": 1192.58,
+      "price": 5476
     },
     {
       "secid": "GKZ6",
@@ -2590,8 +2640,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 229.09,
-      "price": 1215
+      "margin": 240.12,
+      "price": 1233
     },
     {
       "secid": "GLZ6",
@@ -2600,8 +2650,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.1,
       "stepPrice": 0.1,
-      "margin": 1558.6,
-      "price": 12330.4
+      "margin": 1578.57,
+      "price": 12479.2
     },
     {
       "secid": "GUZ6",
@@ -2609,9 +2659,9 @@
       "assetCode": "GBPU",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 14590.19,
-      "price": 1.3504
+      "stepPrice": 8.51293,
+      "margin": 14622.91,
+      "price": 1.3548
     },
     {
       "secid": "GZZ6",
@@ -2620,8 +2670,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1783.89,
-      "price": 8788
+      "margin": 1795.45,
+      "price": 8867
     },
     {
       "secid": "HDZ6",
@@ -2630,8 +2680,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 758.95,
-      "price": 2664
+      "margin": 762.34,
+      "price": 2707
     },
     {
       "secid": "HKZ6",
@@ -2640,8 +2690,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1748.74,
-      "price": 11.231
+      "margin": 1746,
+      "price": 11.048
     },
     {
       "secid": "HYZ6",
@@ -2650,8 +2700,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 761.19,
-      "price": 3454
+      "margin": 772.68,
+      "price": 3502
     },
     {
       "secid": "I2Z6",
@@ -2660,8 +2710,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 1880.46,
-      "price": 0.9019
+      "margin": 1857.23,
+      "price": 0.9
     },
     {
       "secid": "INZ6",
@@ -2669,9 +2719,9 @@
       "assetCode": "UINR",
       "expiry": "2026-12-17",
       "minStep": 0.0025,
-      "stepPrice": 2.2253,
-      "margin": 6143.73,
-      "price": 96.995
+      "stepPrice": 2.22275,
+      "margin": 6127.61,
+      "price": 96.7375
     },
     {
       "secid": "IPZ6",
@@ -2680,8 +2730,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.5,
       "stepPrice": 0.5,
-      "margin": 100.65,
-      "price": 510
+      "margin": 99.91,
+      "price": 502
     },
     {
       "secid": "IRZ6",
@@ -2690,8 +2740,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 6754.3,
-      "price": 25377
+      "margin": 6944.99,
+      "price": 26035
     },
     {
       "secid": "ISZ6",
@@ -2700,8 +2750,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 159.7,
-      "price": 441
+      "margin": 161.93,
+      "price": 445
     },
     {
       "secid": "IVZ6",
@@ -2710,8 +2760,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1897.53,
-      "price": 6381
+      "margin": 1960.55,
+      "price": 6771
     },
     {
       "secid": "JPZ6",
@@ -2719,9 +2769,9 @@
       "assetCode": "UJPY",
       "expiry": "2026-12-17",
       "minStep": 0.01,
-      "stepPrice": 5.3401,
-      "margin": 10140.19,
-      "price": 159.21
+      "stepPrice": 5.3403,
+      "margin": 10062.54,
+      "price": 158.38
     },
     {
       "secid": "KMZ6",
@@ -2730,8 +2780,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 179.5,
-      "price": 500
+      "margin": 182.28,
+      "price": 508
     },
     {
       "secid": "KZZ6",
@@ -2740,8 +2790,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 3050.17,
-      "price": 18.538
+      "margin": 3048.92,
+      "price": 18.542
     },
     {
       "secid": "LEZ6",
@@ -2750,8 +2800,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 152.82,
-      "price": 702
+      "margin": 152.63,
+      "price": 699
     },
     {
       "secid": "LKZ6",
@@ -2760,8 +2810,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 9081.13,
-      "price": 43419
+      "margin": 9132.67,
+      "price": 43675
     },
     {
       "secid": "LNZ6",
@@ -2770,8 +2820,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 538.23,
-      "price": 1915
+      "margin": 542.6,
+      "price": 1895
     },
     {
       "secid": "MAZ6",
@@ -2780,8 +2830,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 749.69,
-      "price": 4432
+      "margin": 619.38,
+      "price": 4476
     },
     {
       "secid": "MCZ6",
@@ -2790,8 +2840,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2028.16,
-      "price": 3707
+      "margin": 2031.61,
+      "price": 3739
     },
     {
       "secid": "MDZ6",
@@ -2800,8 +2850,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3662.79,
-      "price": 13443
+      "margin": 3698.89,
+      "price": 13605
     },
     {
       "secid": "MEZ6",
@@ -2810,8 +2860,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3023.95,
-      "price": 16054
+      "margin": 3070.67,
+      "price": 16288
     },
     {
       "secid": "MGZ6",
@@ -2820,8 +2870,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 4792.62,
-      "price": 20822
+      "margin": 4190.05,
+      "price": 22176
     },
     {
       "secid": "MMZ6",
@@ -2830,8 +2880,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 2717.28,
-      "price": 2216.95
+      "margin": 2732.58,
+      "price": 2225
     },
     {
       "secid": "MNZ6",
@@ -2840,8 +2890,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 410.51,
-      "price": 1731
+      "margin": 421.58,
+      "price": 1778
     },
     {
       "secid": "MTZ6",
@@ -2850,8 +2900,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3603.76,
-      "price": 19055
+      "margin": 3639.62,
+      "price": 19195
     },
     {
       "secid": "MVZ6",
@@ -2860,8 +2910,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 337.07,
-      "price": 408
+      "margin": 326.42,
+      "price": 426
     },
     {
       "secid": "MXZ6",
@@ -2870,8 +2920,8 @@
       "expiry": "2026-12-17",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 27182.28,
-      "price": 221950
+      "margin": 27335.53,
+      "price": 222850
     },
     {
       "secid": "MYZ6",
@@ -2879,9 +2929,9 @@
       "assetCode": "MOEXCNY",
       "expiry": "2026-12-17",
       "minStep": 0.1,
-      "stepPrice": 1.25907,
-      "margin": 1493.48,
-      "price": 796.3
+      "stepPrice": 1.24363,
+      "margin": 1513.7,
+      "price": 815
     },
     {
       "secid": "NBZ6",
@@ -2890,8 +2940,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 109.77,
-      "price": 271
+      "margin": 111.17,
+      "price": 277
     },
     {
       "secid": "NEZ6",
@@ -2900,8 +2950,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1121.45,
-      "price": 2730
+      "margin": 1135.26,
+      "price": 2765
     },
     {
       "secid": "NMZ6",
@@ -2910,8 +2960,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1363.43,
-      "price": 7246
+      "margin": 1416.44,
+      "price": 7507
     },
     {
       "secid": "NVZ6",
@@ -2920,8 +2970,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1876.94,
-      "price": 9620
+      "margin": 1893.66,
+      "price": 9713
     },
     {
       "secid": "OGZ6",
@@ -2930,8 +2980,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 935.75,
-      "price": 5754
+      "margin": 938.23,
+      "price": 5911
     },
     {
       "secid": "ONZ6",
@@ -2940,8 +2990,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 822.69,
-      "price": 3084
+      "margin": 830.01,
+      "price": 3114
     },
     {
       "secid": "PHZ6",
@@ -2950,8 +3000,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1023.89,
-      "price": 5363
+      "margin": 1074.28,
+      "price": 5609
     },
     {
       "secid": "PSZ6",
@@ -2960,8 +3010,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 332.5,
-      "price": 954
+      "margin": 342.86,
+      "price": 984
     },
     {
       "secid": "PXZ6",
@@ -2970,8 +3020,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2203.71,
-      "price": 11577
+      "margin": 2306.52,
+      "price": 12104
     },
     {
       "secid": "RAZ6",
@@ -2980,8 +3030,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 239.24,
-      "price": 1239
+      "margin": 242.43,
+      "price": 1232
     },
     {
       "secid": "RDZ6",
@@ -2990,8 +3040,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2642.9,
-      "price": 7652
+      "margin": 2594.61,
+      "price": 7550
     },
     {
       "secid": "RIZ6",
@@ -2999,9 +3049,9 @@
       "assetCode": "RTS",
       "expiry": "2026-12-17",
       "minStep": 10,
-      "stepPrice": 17.0329,
-      "margin": 22165.25,
-      "price": 81570
+      "stepPrice": 17.02586,
+      "margin": 22679.24,
+      "price": 82960
     },
     {
       "secid": "RLZ6",
@@ -3010,8 +3060,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 521.96,
-      "price": 2756
+      "margin": 537.74,
+      "price": 2839
     },
     {
       "secid": "RMZ6",
@@ -3019,9 +3069,9 @@
       "assetCode": "RTSM",
       "expiry": "2026-12-17",
       "minStep": 0.5,
-      "stepPrice": 8.51645,
-      "margin": 2326.4,
-      "price": 816.5
+      "stepPrice": 8.51293,
+      "margin": 2379.4,
+      "price": 829
     },
     {
       "secid": "RNZ6",
@@ -3030,8 +3080,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 7504.89,
-      "price": 32950
+      "margin": 7553.42,
+      "price": 33168
     },
     {
       "secid": "RQZ6",
@@ -3040,8 +3090,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1192.99,
-      "price": 4443
+      "margin": 1223.1,
+      "price": 4570
     },
     {
       "secid": "RTZ6",
@@ -3050,8 +3100,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 816.19,
-      "price": 4334
+      "margin": 836.9,
+      "price": 4440
     },
     {
       "secid": "RUZ6",
@@ -3060,8 +3110,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 227.71,
-      "price": 850
+      "margin": 230.27,
+      "price": 860
     },
     {
       "secid": "RZZ6",
@@ -3070,8 +3120,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2175.77,
-      "price": 8170
+      "margin": 2230.67,
+      "price": 8409
     },
     {
       "secid": "S0Z6",
@@ -3080,8 +3130,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 188.96,
-      "price": 537
+      "margin": 198.07,
+      "price": 566
     },
     {
       "secid": "S2Z6",
@@ -3090,8 +3140,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 3840.12,
-      "price": 180
+      "margin": 3863.01,
+      "price": 182
     },
     {
       "secid": "SCZ6",
@@ -3100,8 +3150,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 199.12,
-      "price": 1061
+      "margin": 201.35,
+      "price": 1074
     },
     {
       "secid": "SEZ6",
@@ -3110,8 +3160,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 600,
-      "price": 1257
+      "margin": 628.59,
+      "price": 1275
     },
     {
       "secid": "SGZ6",
@@ -3120,8 +3170,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 9520.68,
-      "price": 43851
+      "margin": 9306.64,
+      "price": 42892
     },
     {
       "secid": "SHZ6",
@@ -3130,8 +3180,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.2,
       "stepPrice": 0.2,
-      "margin": 218.26,
-      "price": 540.6
+      "margin": 222.22,
+      "price": 557
     },
     {
       "secid": "SiZ6",
@@ -3140,8 +3190,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 13707.57,
-      "price": 86908
+      "margin": 13683.25,
+      "price": 85510
     },
     {
       "secid": "SNZ6",
@@ -3150,8 +3200,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 3580.01,
-      "price": 16446
+      "margin": 3571.72,
+      "price": 16434
     },
     {
       "secid": "SOZ6",
@@ -3160,8 +3210,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 948.29,
-      "price": 4576
+      "margin": 981.7,
+      "price": 4715
     },
     {
       "secid": "SPZ6",
@@ -3170,8 +3220,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5454.93,
-      "price": 28969
+      "margin": 5468.01,
+      "price": 29076
     },
     {
       "secid": "SRZ6",
@@ -3180,8 +3230,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5585.48,
-      "price": 28932
+      "margin": 5592.59,
+      "price": 28971
     },
     {
       "secid": "SSZ6",
@@ -3190,8 +3240,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 188.51,
-      "price": 366
+      "margin": 198.75,
+      "price": 389
     },
     {
       "secid": "SZZ6",
@@ -3200,8 +3250,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 522.15,
-      "price": 646
+      "margin": 534.36,
+      "price": 656
     },
     {
       "secid": "TBZ6",
@@ -3210,8 +3260,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 516.93,
-      "price": 2675
+      "margin": 519.34,
+      "price": 2695
     },
     {
       "secid": "TNZ6",
@@ -3220,7 +3270,7 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 234.89,
+      "margin": 234.83,
       "price": 1078
     },
     {
@@ -3230,8 +3280,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1142.54,
-      "price": 5027
+      "margin": 1169.79,
+      "price": 5149
     },
     {
       "secid": "TRZ6",
@@ -3239,8 +3289,8 @@
       "assetCode": "UTRY",
       "expiry": "2026-12-17",
       "minStep": 0.0001,
-      "stepPrice": 0.17797,
-      "margin": 32340.96,
+      "stepPrice": 0.17783,
+      "margin": 32288.65,
       "price": 49.45
     },
     {
@@ -3250,8 +3300,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 10086.31,
-      "price": 51194
+      "margin": 10397.4,
+      "price": 52893
     },
     {
       "secid": "TYZ6",
@@ -3260,8 +3310,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 581.13,
-      "price": 1.71
+      "margin": 579.92,
+      "price": 1.672
     },
     {
       "secid": "UCZ6",
@@ -3269,9 +3319,9 @@
       "assetCode": "UCNY",
       "expiry": "2026-12-17",
       "minStep": 0.001,
-      "stepPrice": 12.5907,
-      "margin": 8788.35,
-      "price": 6.727
+      "stepPrice": 12.4363,
+      "margin": 8653.88,
+      "price": 6.712
     },
     {
       "secid": "UMZ6",
@@ -3280,8 +3330,8 @@
       "expiry": "2026-12-17",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1375.16,
-      "price": 86.99
+      "margin": 1352.88,
+      "price": 85.49
     },
     {
       "secid": "UNZ6",
@@ -3290,8 +3340,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2213.45,
-      "price": 10180
+      "margin": 2325.84,
+      "price": 10582
     },
     {
       "secid": "UTZ6",
@@ -3300,7 +3350,7 @@
       "expiry": "2026-12-17",
       "minStep": 0.1,
       "stepPrice": 19,
-      "margin": 17561.41,
+      "margin": 17553.72,
       "price": 510.4
     },
     {
@@ -3310,8 +3360,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1051.16,
-      "price": 5572
+      "margin": 1067.21,
+      "price": 5672
     },
     {
       "secid": "VKZ6",
@@ -3320,8 +3370,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 389.52,
-      "price": 1411
+      "margin": 391.96,
+      "price": 1419
     },
     {
       "secid": "WUZ6",
@@ -3330,8 +3380,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 162.15,
-      "price": 469
+      "margin": 166.23,
+      "price": 481
     },
     {
       "secid": "X5Z6",
@@ -3340,8 +3390,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 390.51,
-      "price": 2072
+      "margin": 387.37,
+      "price": 2060
     },
     {
       "secid": "YDZ6",
@@ -3350,8 +3400,8 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 739.66,
-      "price": 3778
+      "margin": 746.1,
+      "price": 3815
     },
     {
       "secid": "A2Z6",
@@ -3359,9 +3409,9 @@
       "assetCode": "ASML",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 4075.53,
-      "price": 1808.1
+      "stepPrice": 0.85129,
+      "margin": 4002.69,
+      "price": 1782.6
     },
     {
       "secid": "AAZ6",
@@ -3369,7 +3419,7 @@
       "assetCode": "AFRICA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
+      "stepPrice": 0.85129,
       "margin": 784.57,
       "price": 68.61
     },
@@ -3379,8 +3429,8 @@
       "assetCode": "ARGT",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1151.01,
+      "stepPrice": 0.85129,
+      "margin": 1150.97,
       "price": 92.72
     },
     {
@@ -3389,9 +3439,9 @@
       "assetCode": "SAP",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 5029.86,
-      "price": 210.66
+      "stepPrice": 0.85129,
+      "margin": 5161.45,
+      "price": 218.86
     },
     {
       "secid": "BBZ6",
@@ -3399,9 +3449,9 @@
       "assetCode": "ALIBABA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1889.62,
-      "price": 130.63
+      "stepPrice": 0.85129,
+      "margin": 1918.83,
+      "price": 131.87
     },
     {
       "secid": "BDZ6",
@@ -3409,9 +3459,9 @@
       "assetCode": "BAIDU",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1456.18,
-      "price": 95.1
+      "stepPrice": 0.85129,
+      "margin": 1477.45,
+      "price": 96.87
     },
     {
       "secid": "BZZ6",
@@ -3419,9 +3469,9 @@
       "assetCode": "BRAZIL",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 460.96,
-      "price": 34.09
+      "stepPrice": 0.85129,
+      "margin": 464.76,
+      "price": 35.02
     },
     {
       "secid": "CIZ6",
@@ -3429,9 +3479,9 @@
       "assetCode": "CHINA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 635.02,
-      "price": 55.53
+      "stepPrice": 0.85129,
+      "margin": 636.2,
+      "price": 55.97
     },
     {
       "secid": "DDZ6",
@@ -3439,9 +3489,9 @@
       "assetCode": "PDD",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 4380.17,
-      "price": 89.57
+      "stepPrice": 0.85129,
+      "margin": 4519.28,
+      "price": 93.01
     },
     {
       "secid": "DJZ6",
@@ -3449,9 +3499,9 @@
       "assetCode": "DJ30",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 5753.23,
-      "price": 532.1
+      "stepPrice": 8.51293,
+      "margin": 5775.39,
+      "price": 533.5
     },
     {
       "secid": "DXZ6",
@@ -3459,9 +3509,9 @@
       "assetCode": "DAX",
       "expiry": "2026-12-18",
       "minStep": 1,
-      "stepPrice": 0.98731,
-      "margin": 2201.24,
-      "price": 21503
+      "stepPrice": 0.98546,
+      "margin": 2198.4,
+      "price": 21531
     },
     {
       "secid": "EMZ6",
@@ -3469,9 +3519,9 @@
       "assetCode": "EM",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 711.51,
-      "price": 66.66
+      "stepPrice": 0.85129,
+      "margin": 718.4,
+      "price": 67.32
     },
     {
       "secid": "ETZ6",
@@ -3479,9 +3529,9 @@
       "assetCode": "ETHA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 518.81,
-      "price": 15.14
+      "stepPrice": 0.85129,
+      "margin": 563.14,
+      "price": 16.33
     },
     {
       "secid": "GDZ6",
@@ -3489,9 +3539,9 @@
       "assetCode": "GOLD",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 34353.13,
-      "price": 4407.6
+      "stepPrice": 8.51293,
+      "margin": 35308.42,
+      "price": 4534.4
     },
     {
       "secid": "GNZ6",
@@ -3499,9 +3549,9 @@
       "assetCode": "GOLDM",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3435.71,
-      "price": 4409.4
+      "stepPrice": 0.85129,
+      "margin": 3530.2,
+      "price": 4533.9
     },
     {
       "secid": "HSZ6",
@@ -3509,9 +3559,9 @@
       "assetCode": "HANG",
       "expiry": "2026-12-18",
       "minStep": 1,
-      "stepPrice": 0.10856,
-      "margin": 295.4,
-      "price": 26252
+      "stepPrice": 0.10854,
+      "margin": 298.42,
+      "price": 26529
     },
     {
       "secid": "HXZ6",
@@ -3519,9 +3569,9 @@
       "assetCode": "HYNIX",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2395.33,
-      "price": 1179.8
+      "stepPrice": 0.85129,
+      "margin": 2659.31,
+      "price": 1220.3
     },
     {
       "secid": "IBZ6",
@@ -3529,9 +3579,9 @@
       "assetCode": "IBIT",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 837.38,
-      "price": 37.97
+      "stepPrice": 0.85129,
+      "margin": 879.55,
+      "price": 39.84
     },
     {
       "secid": "JDZ6",
@@ -3539,9 +3589,9 @@
       "assetCode": "JDCOM",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 7050.47,
-      "price": 29.2
+      "stepPrice": 8.51293,
+      "margin": 7210.94,
+      "price": 29.92
     },
     {
       "secid": "KRZ6",
@@ -3549,9 +3599,9 @@
       "assetCode": "KOREA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 2083.86,
-      "price": 174.58
+      "stepPrice": 0.85129,
+      "margin": 2194.29,
+      "price": 178.35
     },
     {
       "secid": "LDZ6",
@@ -3559,9 +3609,9 @@
       "assetCode": "PLDM",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2701.52,
-      "price": 1341.5
+      "stepPrice": 0.85129,
+      "margin": 2772.64,
+      "price": 1366.4
     },
     {
       "secid": "LTZ6",
@@ -3569,9 +3619,9 @@
       "assetCode": "PLTM",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3149.95,
-      "price": 1795
+      "stepPrice": 0.85129,
+      "margin": 3263.87,
+      "price": 1858.7
     },
     {
       "secid": "N2Z6",
@@ -3580,8 +3630,8 @@
       "expiry": "2026-12-18",
       "minStep": 1,
       "stepPrice": 0.0534,
-      "margin": 594.86,
-      "price": 68248
+      "margin": 594.35,
+      "price": 68061
     },
     {
       "secid": "NAZ6",
@@ -3589,9 +3639,9 @@
       "assetCode": "NASD",
       "expiry": "2026-12-18",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 3187.99,
-      "price": 29610
+      "stepPrice": 0.85129,
+      "margin": 3181.97,
+      "price": 29588
     },
     {
       "secid": "NDZ6",
@@ -3599,9 +3649,9 @@
       "assetCode": "INDIA",
       "expiry": "2026-12-18",
       "minStep": 0.001,
-      "stepPrice": 0.85165,
-      "margin": 965.45,
-      "price": 9.212
+      "stepPrice": 0.85129,
+      "margin": 964.86,
+      "price": 9.289
     },
     {
       "secid": "NOZ6",
@@ -3609,9 +3659,9 @@
       "assetCode": "NOVARTIS",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 2118.73,
-      "price": 156.46
+      "stepPrice": 0.85129,
+      "margin": 2190.87,
+      "price": 161.94
     },
     {
       "secid": "PDZ6",
@@ -3619,9 +3669,9 @@
       "assetCode": "PLD",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 26982.59,
-      "price": 1337.46
+      "stepPrice": 0.85129,
+      "margin": 27724.13,
+      "price": 1364.3
     },
     {
       "secid": "PTZ6",
@@ -3629,9 +3679,9 @@
       "assetCode": "PLT",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 31476.04,
-      "price": 1796.2
+      "stepPrice": 8.51293,
+      "margin": 32658.84,
+      "price": 1861.6
     },
     {
       "secid": "R2Z6",
@@ -3639,9 +3689,9 @@
       "assetCode": "R2000",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 3247.46,
-      "price": 301
+      "stepPrice": 8.51293,
+      "margin": 3261.44,
+      "price": 301.5
     },
     {
       "secid": "S1Z6",
@@ -3649,9 +3699,9 @@
       "assetCode": "SILVM",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1199.42,
-      "price": 66.18
+      "stepPrice": 0.85129,
+      "margin": 1232.46,
+      "price": 67.89
     },
     {
       "secid": "SDZ6",
@@ -3659,9 +3709,9 @@
       "assetCode": "SAUDI",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 400.78,
-      "price": 38.38
+      "stepPrice": 0.85129,
+      "margin": 401.21,
+      "price": 38.42
     },
     {
       "secid": "SFZ6",
@@ -3669,9 +3719,9 @@
       "assetCode": "SPYF",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 8602.93,
-      "price": 770.27
+      "stepPrice": 0.85129,
+      "margin": 8621.02,
+      "price": 772.42
     },
     {
       "secid": "SKZ6",
@@ -3679,9 +3729,9 @@
       "assetCode": "SAMSUNG",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 3804.15,
-      "price": 181.97
+      "stepPrice": 0.85129,
+      "margin": 3811.52,
+      "price": 189
     },
     {
       "secid": "SQZ6",
@@ -3689,9 +3739,9 @@
       "assetCode": "SOXQ",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1139.57,
-      "price": 96
+      "stepPrice": 0.85129,
+      "margin": 1123.21,
+      "price": 94.94
     },
     {
       "secid": "SVZ6",
@@ -3699,9 +3749,9 @@
       "assetCode": "SILV",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 13091.23,
-      "price": 66.14
+      "stepPrice": 8.51293,
+      "margin": 13451.13,
+      "price": 67.88
     },
     {
       "secid": "SXZ6",
@@ -3709,9 +3759,9 @@
       "assetCode": "STOX",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 0.09873,
-      "margin": 971.59,
-      "price": 6552.6
+      "stepPrice": 0.09855,
+      "margin": 966.83,
+      "price": 6528.6
     },
     {
       "secid": "SYZ6",
@@ -3719,9 +3769,9 @@
       "assetCode": "SONY",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 5803.72,
-      "price": 23.68
+      "stepPrice": 8.51293,
+      "margin": 5845.31,
+      "price": 23.88
     },
     {
       "secid": "TCZ6",
@@ -3729,9 +3779,9 @@
       "assetCode": "TENCENT",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 10.8559,
-      "margin": 7206.11,
-      "price": 454.3
+      "stepPrice": 10.8542,
+      "margin": 7312.87,
+      "price": 459.3
     },
     {
       "secid": "TLZ6",
@@ -3739,9 +3789,9 @@
       "assetCode": "TLT",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 5597.36,
-      "price": 81.69
+      "stepPrice": 8.51293,
+      "margin": 5696.89,
+      "price": 83.07
     },
     {
       "secid": "TOZ6",
@@ -3749,9 +3799,9 @@
       "assetCode": "TOYOTA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 3359.85,
-      "price": 191.26
+      "stepPrice": 0.85129,
+      "margin": 3292.53,
+      "price": 188.33
     },
     {
       "secid": "TSZ6",
@@ -3759,9 +3809,9 @@
       "assetCode": "TSM",
       "expiry": "2026-12-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 9076.33,
-      "price": 438.5
+      "stepPrice": 8.51293,
+      "margin": 9034.46,
+      "price": 433.1
     },
     {
       "secid": "XIZ6",
@@ -3769,9 +3819,9 @@
       "assetCode": "XIA",
       "expiry": "2026-12-18",
       "minStep": 0.01,
-      "stepPrice": 10.8559,
-      "margin": 4916.08,
-      "price": 26.33
+      "stepPrice": 10.8542,
+      "margin": 5178.37,
+      "price": 27.75
     },
     {
       "secid": "WTZ6",
@@ -3779,9 +3829,9 @@
       "assetCode": "WTI",
       "expiry": "2026-12-21",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 19867.7,
-      "price": 82.88
+      "stepPrice": 8.51293,
+      "margin": 20034.16,
+      "price": 84.02
     },
     {
       "secid": "HOZ6",
@@ -3790,8 +3840,8 @@
       "expiry": "2026-12-23",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 3326.18,
-      "price": 40320
+      "margin": 3340.64,
+      "price": 40500
     },
     {
       "secid": "NGZ6",
@@ -3799,9 +3849,9 @@
       "assetCode": "NG",
       "expiry": "2026-12-29",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7645.22,
-      "price": 4.04
+      "stepPrice": 8.51293,
+      "margin": 7873.23,
+      "price": 4.055
     },
     {
       "secid": "NRZ6",
@@ -3809,9 +3859,9 @@
       "assetCode": "NGM",
       "expiry": "2026-12-29",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 76.48,
-      "price": 4.06
+      "stepPrice": 0.08513,
+      "margin": 78.75,
+      "price": 4.08
     },
     {
       "secid": "W4Z6",
@@ -3820,8 +3870,8 @@
       "expiry": "2026-12-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1912.81,
-      "price": 14450
+      "margin": 1513.37,
+      "price": 14990
     },
     {
       "secid": "BMF7",
@@ -3829,9 +3879,9 @@
       "assetCode": "BRM",
       "expiry": "2027-01-04",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1862.98,
-      "price": 84.39
+      "stepPrice": 0.85129,
+      "margin": 1869.86,
+      "price": 84.88
     },
     {
       "secid": "BRF7",
@@ -3839,9 +3889,9 @@
       "assetCode": "BR",
       "expiry": "2027-01-04",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 18632.35,
-      "price": 84.5
+      "stepPrice": 8.51293,
+      "margin": 18697.66,
+      "price": 84.69
     },
     {
       "secid": "WTF7",
@@ -3849,9 +3899,9 @@
       "assetCode": "WTI",
       "expiry": "2027-01-20",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 20263.21,
-      "price": 82.38
+      "stepPrice": 8.51293,
+      "margin": 20465.48,
+      "price": 84.62
     },
     {
       "secid": "NGF7",
@@ -3859,9 +3909,9 @@
       "assetCode": "NG",
       "expiry": "2027-01-27",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7586.84,
-      "price": 3.815
+      "stepPrice": 8.51293,
+      "margin": 7819.17,
+      "price": 3.834
     },
     {
       "secid": "NRF7",
@@ -3869,9 +3919,9 @@
       "assetCode": "NGM",
       "expiry": "2027-01-27",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 75.87,
-      "price": 3.824
+      "stepPrice": 0.08513,
+      "margin": 78.13,
+      "price": 3.828
     },
     {
       "secid": "W4F7",
@@ -3880,8 +3930,8 @@
       "expiry": "2027-01-29",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 1994.51,
-      "price": 15100
+      "margin": 1594.71,
+      "price": 15600
     },
     {
       "secid": "BMG7",
@@ -3889,9 +3939,9 @@
       "assetCode": "BRM",
       "expiry": "2027-02-01",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1895.23,
-      "price": 83.05
+      "stepPrice": 0.85129,
+      "margin": 1903.54,
+      "price": 83.92
     },
     {
       "secid": "BRG7",
@@ -3899,9 +3949,9 @@
       "assetCode": "BR",
       "expiry": "2027-02-01",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 18957.19,
-      "price": 83.23
+      "stepPrice": 8.51293,
+      "margin": 19041.22,
+      "price": 84
     },
     {
       "secid": "KCG7",
@@ -3909,9 +3959,9 @@
       "assetCode": "COFFEE",
       "expiry": "2027-02-18",
       "minStep": 0.001,
-      "stepPrice": 0.85165,
-      "margin": 462.76,
-      "price": 3.42
+      "stepPrice": 0.85129,
+      "margin": 464.51,
+      "price": 3.421
     },
     {
       "secid": "CCG7",
@@ -3920,8 +3970,8 @@
       "expiry": "2027-02-22",
       "minStep": 0.1,
       "stepPrice": 1,
-      "margin": 1043.95,
-      "price": 535.5
+      "margin": 1044.95,
+      "price": 532
     },
     {
       "secid": "WTG7",
@@ -3929,9 +3979,9 @@
       "assetCode": "WTI",
       "expiry": "2027-02-22",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 20563.25,
-      "price": 80.88
+      "stepPrice": 8.51293,
+      "margin": 20682.32,
+      "price": 79.77
     },
     {
       "secid": "NGG7",
@@ -3939,9 +3989,9 @@
       "assetCode": "NG",
       "expiry": "2027-02-24",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7400.98,
-      "price": 3.165
+      "stepPrice": 8.51293,
+      "margin": 7630.83,
+      "price": 3.191
     },
     {
       "secid": "NRG7",
@@ -3949,9 +3999,9 @@
       "assetCode": "NGM",
       "expiry": "2027-02-24",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 74.27,
-      "price": 3.277
+      "stepPrice": 0.08513,
+      "margin": 76.49,
+      "price": 3.281
     },
     {
       "secid": "SAH7",
@@ -3960,8 +4010,8 @@
       "expiry": "2027-02-26",
       "minStep": 0.01,
       "stepPrice": 10.16,
-      "margin": 5263.13,
-      "price": 36.71
+      "margin": 5200.53,
+      "price": 36.27
     },
     {
       "secid": "W4G7",
@@ -3970,8 +4020,8 @@
       "expiry": "2027-02-26",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2029.92,
-      "price": 14870
+      "margin": 1628.68,
+      "price": 15270
     },
     {
       "secid": "BMH7",
@@ -3979,9 +4029,9 @@
       "assetCode": "BRM",
       "expiry": "2027-03-01",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1915.94,
-      "price": 82.45
+      "stepPrice": 0.85129,
+      "margin": 1924.48,
+      "price": 83.06
     },
     {
       "secid": "BRH7",
@@ -3989,9 +4039,9 @@
       "assetCode": "BR",
       "expiry": "2027-03-01",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 19158.92,
-      "price": 82.44
+      "stepPrice": 8.51293,
+      "margin": 19259.84,
+      "price": 83.44
     },
     {
       "secid": "RBH7",
@@ -4000,8 +4050,8 @@
       "expiry": "2027-03-01",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1307.1,
-      "price": 11488
+      "margin": 1307.68,
+      "price": 11499
     },
     {
       "secid": "RFH7",
@@ -4010,7 +4060,7 @@
       "expiry": "2027-03-01",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 1546.66,
+      "margin": 1543.28,
       "price": 4.7845
     },
     {
@@ -4020,7 +4070,7 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 562.74,
+      "margin": 562.71,
       "price": 2007
     },
     {
@@ -4030,8 +4080,8 @@
       "expiry": "2027-03-18",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1337.25,
-      "price": 13.107
+      "margin": 1318.71,
+      "price": 12.941
     },
     {
       "secid": "EDH7",
@@ -4039,9 +4089,9 @@
       "assetCode": "ED",
       "expiry": "2027-03-18",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 7391.05,
-      "price": 1.1554
+      "stepPrice": 8.51293,
+      "margin": 7428.82,
+      "price": 1.162
     },
     {
       "secid": "EuH7",
@@ -4050,8 +4100,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 16722.86,
-      "price": 103052
+      "margin": 16670.39,
+      "price": 101970
     },
     {
       "secid": "GLH7",
@@ -4060,8 +4110,8 @@
       "expiry": "2027-03-18",
       "minStep": 0.1,
       "stepPrice": 0.1,
-      "margin": 1546.71,
-      "price": 12672.5
+      "margin": 1565.59,
+      "price": 12831
     },
     {
       "secid": "GZH7",
@@ -4070,8 +4120,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1758.27,
-      "price": 9100
+      "margin": 1771.48,
+      "price": 9192
     },
     {
       "secid": "LKH7",
@@ -4080,8 +4130,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 8832.31,
-      "price": 44186
+      "margin": 8893.5,
+      "price": 44602
     },
     {
       "secid": "MMH7",
@@ -4090,8 +4140,8 @@
       "expiry": "2027-03-18",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 2958.68,
-      "price": 2286.9
+      "margin": 2979.54,
+      "price": 2299.7
     },
     {
       "secid": "MXH7",
@@ -4100,8 +4150,8 @@
       "expiry": "2027-03-18",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 29601.09,
-      "price": 229025
+      "margin": 29802.23,
+      "price": 230125
     },
     {
       "secid": "NEH7",
@@ -4110,8 +4160,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1157.86,
-      "price": 2824
+      "margin": 1172.65,
+      "price": 2860
     },
     {
       "secid": "RIH7",
@@ -4119,9 +4169,9 @@
       "assetCode": "RTS",
       "expiry": "2027-03-18",
       "minStep": 10,
-      "stepPrice": 17.0329,
-      "margin": 23122.54,
-      "price": 82280
+      "stepPrice": 17.02586,
+      "margin": 23651.93,
+      "price": 83700
     },
     {
       "secid": "RNH7",
@@ -4130,8 +4180,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 7515.8,
-      "price": 33202
+      "margin": 7576.56,
+      "price": 33651
     },
     {
       "secid": "SiH7",
@@ -4140,8 +4190,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 14252.12,
-      "price": 88719
+      "margin": 14222.1,
+      "price": 87503
     },
     {
       "secid": "SPH7",
@@ -4150,8 +4200,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5783.32,
-      "price": 29903
+      "margin": 5797.38,
+      "price": 29864
     },
     {
       "secid": "SRH7",
@@ -4160,8 +4210,8 @@
       "expiry": "2027-03-18",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5776.64,
-      "price": 29908
+      "margin": 5790.15,
+      "price": 30006
     },
     {
       "secid": "UCH7",
@@ -4169,9 +4219,9 @@
       "assetCode": "UCNY",
       "expiry": "2027-03-18",
       "minStep": 0.001,
-      "stepPrice": 12.5907,
-      "margin": 9338.21,
-      "price": 6.741
+      "stepPrice": 12.4363,
+      "margin": 9195.19,
+      "price": 6.728
     },
     {
       "secid": "GDH7",
@@ -4179,9 +4229,9 @@
       "assetCode": "GOLD",
       "expiry": "2027-03-19",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 36838.56,
-      "price": 4464.1
+      "stepPrice": 8.51293,
+      "margin": 37847.32,
+      "price": 4584.1
     },
     {
       "secid": "GNH7",
@@ -4189,9 +4239,9 @@
       "assetCode": "GOLDM",
       "expiry": "2027-03-19",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3684.69,
-      "price": 4468.3
+      "stepPrice": 0.85129,
+      "margin": 3786.1,
+      "price": 4597.9
     },
     {
       "secid": "LDH7",
@@ -4199,9 +4249,9 @@
       "assetCode": "PLDM",
       "expiry": "2027-03-19",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2780.04,
-      "price": 1366.9
+      "stepPrice": 0.85129,
+      "margin": 2850.5,
+      "price": 1382.4
     },
     {
       "secid": "LTH7",
@@ -4209,9 +4259,9 @@
       "assetCode": "PLTM",
       "expiry": "2027-03-19",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3370.96,
-      "price": 1852.4
+      "stepPrice": 0.85129,
+      "margin": 3491.36,
+      "price": 1900.1
     },
     {
       "secid": "NAH7",
@@ -4219,9 +4269,9 @@
       "assetCode": "NASD",
       "expiry": "2027-03-19",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 3353.45,
-      "price": 29567
+      "stepPrice": 0.85129,
+      "margin": 3347.25,
+      "price": 29568
     },
     {
       "secid": "PDH7",
@@ -4229,9 +4279,9 @@
       "assetCode": "PLD",
       "expiry": "2027-03-19",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 27749.15,
-      "price": 1355.3
+      "stepPrice": 0.85129,
+      "margin": 28500.5,
+      "price": 1379.73
     },
     {
       "secid": "PTH7",
@@ -4239,9 +4289,9 @@
       "assetCode": "PLT",
       "expiry": "2027-03-19",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 33625.97,
-      "price": 1832.9
+      "stepPrice": 8.51293,
+      "margin": 34934.7,
+      "price": 1902.3
     },
     {
       "secid": "S1H7",
@@ -4249,9 +4299,9 @@
       "assetCode": "SILVM",
       "expiry": "2027-03-19",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1249.98,
-      "price": 67.95
+      "stepPrice": 0.85129,
+      "margin": 1284.1,
+      "price": 69.56
     },
     {
       "secid": "SFH7",
@@ -4259,9 +4309,9 @@
       "assetCode": "SPYF",
       "expiry": "2027-03-19",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 8736.21,
-      "price": 771.69
+      "stepPrice": 0.85129,
+      "margin": 8753.02,
+      "price": 773.37
     },
     {
       "secid": "SVH7",
@@ -4269,9 +4319,9 @@
       "assetCode": "SILV",
       "expiry": "2027-03-19",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 13108.25,
-      "price": 67.91
+      "stepPrice": 8.51293,
+      "margin": 13466.44,
+      "price": 69.64
     },
     {
       "secid": "NGH7",
@@ -4279,9 +4329,9 @@
       "assetCode": "NG",
       "expiry": "2027-03-29",
       "minStep": 0.001,
-      "stepPrice": 8.51645,
-      "margin": 7487.53,
-      "price": 3.239
+      "stepPrice": 8.51293,
+      "margin": 7688.33,
+      "price": 3.15
     },
     {
       "secid": "NRH7",
@@ -4289,9 +4339,9 @@
       "assetCode": "NGM",
       "expiry": "2027-03-29",
       "minStep": 0.001,
-      "stepPrice": 0.08516,
-      "margin": 74.84,
-      "price": 3.235
+      "stepPrice": 0.08513,
+      "margin": 77.64,
+      "price": 3.45
     },
     {
       "secid": "W4H7",
@@ -4300,8 +4350,8 @@
       "expiry": "2027-03-31",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2086.58,
-      "price": 16300
+      "margin": 1660.03,
+      "price": 15870
     },
     {
       "secid": "W4J7",
@@ -4310,8 +4360,8 @@
       "expiry": "2027-04-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2077.17,
-      "price": 16300
+      "margin": 1652.63,
+      "price": 15900
     },
     {
       "secid": "W4K7",
@@ -4320,8 +4370,8 @@
       "expiry": "2027-05-31",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2071.17,
-      "price": 16290
+      "margin": 1649.22,
+      "price": 16000
     },
     {
       "secid": "RBM7",
@@ -4330,8 +4380,8 @@
       "expiry": "2027-06-01",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1389.4,
-      "price": 11560
+      "margin": 1389.35,
+      "price": 11535
     },
     {
       "secid": "RFM7",
@@ -4340,7 +4390,7 @@
       "expiry": "2027-06-01",
       "minStep": 0.0001,
       "stepPrice": 1,
-      "margin": 1889.88,
+      "margin": 1886.37,
       "price": 4.9412
     },
     {
@@ -4350,8 +4400,8 @@
       "expiry": "2027-06-17",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1488.14,
-      "price": 13.289
+      "margin": 1468.73,
+      "price": 13.153
     },
     {
       "secid": "EDM7",
@@ -4359,9 +4409,9 @@
       "assetCode": "ED",
       "expiry": "2027-06-17",
       "minStep": 0.0001,
-      "stepPrice": 8.51645,
-      "margin": 8149.06,
-      "price": 1.1575
+      "stepPrice": 8.51293,
+      "margin": 8189.38,
+      "price": 1.1634
     },
     {
       "secid": "EuM7",
@@ -4370,8 +4420,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 17529.39,
-      "price": 105870
+      "margin": 17467.85,
+      "price": 104702
     },
     {
       "secid": "GLM7",
@@ -4380,8 +4430,8 @@
       "expiry": "2027-06-17",
       "minStep": 0.1,
       "stepPrice": 0.1,
-      "margin": 1661.69,
-      "price": 13000.1
+      "margin": 1681.4,
+      "price": 13139.3
     },
     {
       "secid": "GZM7",
@@ -4390,8 +4440,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1764.18,
-      "price": 9432
+      "margin": 1778.15,
+      "price": 9549
     },
     {
       "secid": "LKM7",
@@ -4400,8 +4450,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 8809.69,
-      "price": 44135
+      "margin": 8869.73,
+      "price": 44514
     },
     {
       "secid": "MMM7",
@@ -4410,8 +4460,8 @@
       "expiry": "2027-06-17",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 2972.56,
-      "price": 2365.05
+      "margin": 2994.47,
+      "price": 2381.15
     },
     {
       "secid": "MXM7",
@@ -4420,8 +4470,8 @@
       "expiry": "2027-06-17",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 29701.61,
-      "price": 235600
+      "margin": 29924.75,
+      "price": 237400
     },
     {
       "secid": "RIM7",
@@ -4429,9 +4479,9 @@
       "assetCode": "RTS",
       "expiry": "2027-06-17",
       "minStep": 10,
-      "stepPrice": 17.0329,
-      "margin": 24314.5,
-      "price": 83250
+      "stepPrice": 17.02586,
+      "margin": 24842.4,
+      "price": 84140
     },
     {
       "secid": "RNM7",
@@ -4440,8 +4490,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 7533.06,
-      "price": 34288
+      "margin": 7589.54,
+      "price": 34600
     },
     {
       "secid": "SiM7",
@@ -4450,8 +4500,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 14935.02,
-      "price": 90589
+      "margin": 14895.67,
+      "price": 89306
     },
     {
       "secid": "SPM7",
@@ -4460,8 +4510,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5798.73,
-      "price": 30864
+      "margin": 5817.47,
+      "price": 30973
     },
     {
       "secid": "SRM7",
@@ -4470,8 +4520,8 @@
       "expiry": "2027-06-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 5782.23,
-      "price": 30550
+      "margin": 5797.45,
+      "price": 30701
     },
     {
       "secid": "UCM7",
@@ -4479,9 +4529,9 @@
       "assetCode": "UCNY",
       "expiry": "2027-06-17",
       "minStep": 0.001,
-      "stepPrice": 12.5907,
-      "margin": 10012,
-      "price": 6.758
+      "stepPrice": 12.4363,
+      "margin": 9856.68,
+      "price": 6.736
     },
     {
       "secid": "GDM7",
@@ -4489,9 +4539,9 @@
       "assetCode": "GOLD",
       "expiry": "2027-06-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 39950.14,
-      "price": 4536
+      "stepPrice": 8.51293,
+      "margin": 41021.42,
+      "price": 4648.4
     },
     {
       "secid": "GNM7",
@@ -4499,9 +4549,9 @@
       "assetCode": "GOLDM",
       "expiry": "2027-06-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3994.43,
-      "price": 4532
+      "stepPrice": 0.85129,
+      "margin": 4100.29,
+      "price": 4642.3
     },
     {
       "secid": "LDM7",
@@ -4509,9 +4559,9 @@
       "assetCode": "PLDM",
       "expiry": "2027-06-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 2845.01,
-      "price": 1369.4
+      "stepPrice": 0.85129,
+      "margin": 2933.12,
+      "price": 1444.9
     },
     {
       "secid": "LTM7",
@@ -4519,9 +4569,9 @@
       "assetCode": "PLTM",
       "expiry": "2027-06-18",
       "minStep": 0.1,
-      "stepPrice": 0.85165,
-      "margin": 3302.63,
-      "price": 1880
+      "stepPrice": 0.85129,
+      "margin": 3428.95,
+      "price": 1960
     },
     {
       "secid": "NAM7",
@@ -4529,9 +4579,9 @@
       "assetCode": "NASD",
       "expiry": "2027-06-18",
       "minStep": 1,
-      "stepPrice": 0.85165,
-      "margin": 3558.2,
-      "price": 29700
+      "stepPrice": 0.85129,
+      "margin": 3552.72,
+      "price": 29742
     },
     {
       "secid": "PDM7",
@@ -4539,9 +4589,9 @@
       "assetCode": "PLD",
       "expiry": "2027-06-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 28448.35,
-      "price": 1378.66
+      "stepPrice": 0.85129,
+      "margin": 29238.49,
+      "price": 1408.67
     },
     {
       "secid": "PTM7",
@@ -4549,9 +4599,9 @@
       "assetCode": "PLT",
       "expiry": "2027-06-18",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 32938.81,
-      "price": 1856.3
+      "stepPrice": 8.51293,
+      "margin": 34204.59,
+      "price": 1921.7
     },
     {
       "secid": "S1M7",
@@ -4559,9 +4609,9 @@
       "assetCode": "SILVM",
       "expiry": "2027-06-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 1302.53,
-      "price": 69.47
+      "stepPrice": 0.85129,
+      "margin": 1337.31,
+      "price": 70.83
     },
     {
       "secid": "SFM7",
@@ -4569,9 +4619,9 @@
       "assetCode": "SPYF",
       "expiry": "2027-06-18",
       "minStep": 0.01,
-      "stepPrice": 0.85165,
-      "margin": 9269.13,
-      "price": 774.49
+      "stepPrice": 0.85129,
+      "margin": 9285.42,
+      "price": 775.47
     },
     {
       "secid": "SVM7",
@@ -4579,9 +4629,9 @@
       "assetCode": "SILV",
       "expiry": "2027-06-18",
       "minStep": 0.01,
-      "stepPrice": 8.51645,
-      "margin": 13473.86,
-      "price": 69.79
+      "stepPrice": 8.51293,
+      "margin": 13845.58,
+      "price": 71.5
     },
     {
       "secid": "W4M7",
@@ -4590,8 +4640,8 @@
       "expiry": "2027-06-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2049.77,
-      "price": 15340
+      "margin": 1655.62,
+      "price": 15950
     },
     {
       "secid": "W4N7",
@@ -4600,8 +4650,8 @@
       "expiry": "2027-07-30",
       "minStep": 10,
       "stepPrice": 10,
-      "margin": 2099.71,
-      "price": 17010
+      "margin": 1661.49,
+      "price": 16180
     },
     {
       "secid": "RBU7",
@@ -4610,8 +4660,8 @@
       "expiry": "2027-09-01",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1469.9,
-      "price": 11508
+      "margin": 1475.36,
+      "price": 11700
     },
     {
       "secid": "CRU7",
@@ -4620,8 +4670,8 @@
       "expiry": "2027-09-16",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1650.59,
-      "price": 13.615
+      "margin": 1627.61,
+      "price": 13.434
     },
     {
       "secid": "MMU7",
@@ -4630,8 +4680,8 @@
       "expiry": "2027-09-16",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 3038.84,
-      "price": 2405.2
+      "margin": 3070.27,
+      "price": 2455
     },
     {
       "secid": "MXU7",
@@ -4640,8 +4690,8 @@
       "expiry": "2027-09-16",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 30409.67,
-      "price": 241050
+      "margin": 30636,
+      "price": 243400
     },
     {
       "secid": "SiU7",
@@ -4650,8 +4700,8 @@
       "expiry": "2027-09-16",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 15660.3,
-      "price": 92990
+      "margin": 15606.53,
+      "price": 91487
     },
     {
       "secid": "CRZ7",
@@ -4660,8 +4710,8 @@
       "expiry": "2027-12-16",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1815.36,
-      "price": 13.831
+      "margin": 1791.34,
+      "price": 13.669
     },
     {
       "secid": "MMZ7",
@@ -4670,8 +4720,8 @@
       "expiry": "2027-12-16",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 3286.38,
-      "price": 2514
+      "margin": 3309.63,
+      "price": 2534
     },
     {
       "secid": "MXZ7",
@@ -4680,8 +4730,8 @@
       "expiry": "2027-12-16",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 32858.56,
-      "price": 251175
+      "margin": 33050.71,
+      "price": 252225
     },
     {
       "secid": "SiZ7",
@@ -4690,8 +4740,8 @@
       "expiry": "2027-12-16",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 16402.38,
-      "price": 94852
+      "margin": 16335.92,
+      "price": 93265
     },
     {
       "secid": "MMH8",
@@ -4700,8 +4750,8 @@
       "expiry": "2028-03-16",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 3505.02,
-      "price": 2524.8
+      "margin": 3558.02,
+      "price": 2602.95
     },
     {
       "secid": "MXH8",
@@ -4710,8 +4760,8 @@
       "expiry": "2028-03-16",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 35554.74,
-      "price": 262825
+      "margin": 35518.5,
+      "price": 258975
     },
     {
       "secid": "MMM8",
@@ -4720,8 +4770,8 @@
       "expiry": "2028-06-15",
       "minStep": 0.05,
       "stepPrice": 0.5,
-      "margin": 3773.15,
-      "price": 2617.7
+      "margin": 3855.37,
+      "price": 2736.85
     },
     {
       "secid": "MXM8",
@@ -4730,8 +4780,8 @@
       "expiry": "2028-06-15",
       "minStep": 25,
       "stepPrice": 25,
-      "margin": 38115.53,
-      "price": 268525
+      "margin": 37764.52,
+      "price": 259600
     },
     {
       "secid": "CNYRUBF",
@@ -4740,8 +4790,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.001,
       "stepPrice": 1,
-      "margin": 1010.81,
-      "price": 12.589
+      "margin": 997.96,
+      "price": 12.429
     },
     {
       "secid": "EURRUBF",
@@ -4750,8 +4800,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 10,
-      "margin": 14828.35,
-      "price": 98.73
+      "margin": 14800.49,
+      "price": 98.55
     },
     {
       "secid": "GAZPF",
@@ -4760,8 +4810,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1434.1,
-      "price": 84.2
+      "margin": 1442.79,
+      "price": 84.71
     },
     {
       "secid": "GLDRUBF",
@@ -4770,8 +4820,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 0.1,
-      "margin": 1307.65,
-      "price": 11838.5
+      "margin": 1324.71,
+      "price": 11993
     },
     {
       "secid": "IMOEXF",
@@ -4780,8 +4830,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.5,
       "stepPrice": 5,
-      "margin": 2154.61,
-      "price": 2148
+      "margin": 2178.93,
+      "price": 2172.5
     },
     {
       "secid": "QQQF",
@@ -4789,9 +4839,9 @@
       "assetCode": "QQQF",
       "expiry": "2100-01-01",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 7050.74,
-      "price": 718.6
+      "stepPrice": 8.51293,
+      "margin": 7042.53,
+      "price": 718.1
     },
     {
       "secid": "RGBIF",
@@ -4800,8 +4850,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 1135.96,
-      "price": 113.39
+      "margin": 1137.56,
+      "price": 113.55
     },
     {
       "secid": "SBERF",
@@ -4810,8 +4860,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 4704.78,
-      "price": 276.23
+      "margin": 4713.8,
+      "price": 276.76
     },
     {
       "secid": "SLVRUBF",
@@ -4820,8 +4870,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 1,
-      "margin": 3445.48,
-      "price": 171.85
+      "margin": 3464.53,
+      "price": 172.8
     },
     {
       "secid": "SP500F",
@@ -4829,9 +4879,9 @@
       "assetCode": "SP500F",
       "expiry": "2100-01-01",
       "minStep": 0.1,
-      "stepPrice": 8.51645,
-      "margin": 7537.2,
-      "price": 768.2
+      "stepPrice": 8.51293,
+      "margin": 7557.13,
+      "price": 770.5
     },
     {
       "secid": "USDRUBF",
@@ -4840,8 +4890,8 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 10,
-      "margin": 12790.78,
-      "price": 85.16
+      "margin": 12785.49,
+      "price": 85.13
     }
   ]
 }
