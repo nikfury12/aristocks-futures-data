@@ -1,28 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-08-20T07:08:03.566Z",
-  "count": 489,
+  "updatedAt": "2026-08-21T01:58:59.177Z",
+  "count": 487,
   "contracts": [
-    {
-      "secid": "VIQ6",
-      "name": "RVI-8.26",
-      "assetCode": "RVI",
-      "expiry": "2026-08-20",
-      "minStep": 0.05,
-      "stepPrice": 8.51293,
-      "margin": 2939.9,
-      "price": 42.9
-    },
-    {
-      "secid": "WTQ6",
-      "name": "WTI-8.26",
-      "assetCode": "WTI",
-      "expiry": "2026-08-20",
-      "minStep": 0.01,
-      "stepPrice": 8.51293,
-      "margin": 17773.02,
-      "price": 86.45
-    },
     {
       "secid": "KCQ6",
       "name": "COFFEE-8.26",
