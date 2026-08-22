@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-08-21T20:42:40.439Z",
-  "count": 490,
+  "updatedAt": "2026-08-22T03:09:00.276Z",
+  "count": 489,
   "contracts": [
-    {
-      "secid": "KCQ6",
-      "name": "COFFEE-8.26",
-      "assetCode": "COFFEE",
-      "expiry": "2026-08-21",
-      "minStep": 0.001,
-      "stepPrice": 0.83355,
-      "margin": 345.77,
-      "price": 3.607
-    },
     {
       "secid": "CCQ6",
       "name": "COCOA-8.26",
