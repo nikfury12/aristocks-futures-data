@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-08-25T04:02:45.793Z",
-  "count": 494,
+  "updatedAt": "2026-08-26T02:00:09.825Z",
+  "count": 493,
   "contracts": [
-    {
-      "secid": "CCQ6",
-      "name": "COCOA-8.26",
-      "assetCode": "COCOA",
-      "expiry": "2026-08-25",
-      "minStep": 0.1,
-      "stepPrice": 1,
-      "margin": 825.61,
-      "price": 485.6
-    },
     {
       "secid": "NGQ6",
       "name": "NG-8.26",
