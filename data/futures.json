@@ -1,6 +1,6 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-01T14:55:33.227Z",
+  "updatedAt": "2026-09-01T18:34:15.166Z",
   "count": 477,
   "contracts": [
     {
@@ -760,7 +760,7 @@
       "expiry": "2026-09-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 1885.17,
+      "margin": 2322.11,
       "price": 10744
     },
     {
@@ -2850,7 +2850,7 @@
       "expiry": "2026-12-17",
       "minStep": 1,
       "stepPrice": 1,
-      "margin": 2089.09,
+      "margin": 2458.31,
       "price": 11094
     },
     {
