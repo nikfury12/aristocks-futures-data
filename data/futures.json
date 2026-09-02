@@ -1,38 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-01T18:34:15.166Z",
-  "count": 477,
+  "updatedAt": "2026-09-02T00:16:59.816Z",
+  "count": 474,
   "contracts": [
-    {
-      "secid": "OJU6",
-      "name": "ORANGE-9.26",
-      "assetCode": "ORANGE",
-      "expiry": "2026-09-01",
-      "minStep": 0.001,
-      "stepPrice": 8.63793,
-      "margin": 2648.11,
-      "price": 1.331
-    },
-    {
-      "secid": "RBU6",
-      "name": "RGBI-9.26",
-      "assetCode": "RGBI",
-      "expiry": "2026-09-01",
-      "minStep": 1,
-      "stepPrice": 1,
-      "margin": 1139.7,
-      "price": 11397
-    },
-    {
-      "secid": "RFU6",
-      "name": "RUONIA-9.26",
-      "assetCode": "RUONIA",
-      "expiry": "2026-09-01",
-      "minStep": 0.0001,
-      "stepPrice": 1,
-      "margin": 893.1,
-      "price": 4.4655
-    },
     {
       "secid": "ANU6",
       "name": "ALUM-9.26",
