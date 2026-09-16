@@ -1,58 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-15T18:13:54.982Z",
-  "count": 642,
+  "updatedAt": "2026-09-16T00:24:27.023Z",
+  "count": 637,
   "contracts": [
-    {
-      "secid": "ANU6",
-      "name": "ALUM-9.26",
-      "assetCode": "ALUM",
-      "expiry": "2026-09-15",
-      "minStep": 0.5,
-      "stepPrice": 4.21682,
-      "margin": 3209.79,
-      "price": 3309.5
-    },
-    {
-      "secid": "CEU6",
-      "name": "COPPER-9.26",
-      "assetCode": "COPPER",
-      "expiry": "2026-09-15",
-      "minStep": 1,
-      "stepPrice": 0.84336,
-      "margin": 1363.15,
-      "price": 14055
-    },
-    {
-      "secid": "NCU6",
-      "name": "NICKEL-9.26",
-      "assetCode": "NICKEL",
-      "expiry": "2026-09-15",
-      "minStep": 5,
-      "stepPrice": 4.21682,
-      "margin": 2354.6,
-      "price": 16185
-    },
-    {
-      "secid": "SuU6",
-      "name": "SUGAR-9.26",
-      "assetCode": "SUGAR",
-      "expiry": "2026-09-15",
-      "minStep": 10,
-      "stepPrice": 1,
-      "margin": 760.48,
-      "price": 47530
-    },
-    {
-      "secid": "ZCU6",
-      "name": "ZINC-9.26",
-      "assetCode": "ZINC",
-      "expiry": "2026-09-15",
-      "minStep": 0.5,
-      "stepPrice": 4.21682,
-      "margin": 3830.99,
-      "price": 3950
-    },
     {
       "secid": "AEU6",
       "name": "AED-9.26",
