@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-22T14:57:23.623Z",
-  "count": 503,
+  "updatedAt": "2026-09-23T00:37:29.427Z",
+  "count": 502,
   "contracts": [
-    {
-      "secid": "WTU6",
-      "name": "WTI-9.26",
-      "assetCode": "WTI",
-      "expiry": "2026-09-22",
-      "minStep": 0.01,
-      "stepPrice": 8.40954,
-      "margin": 19456.07,
-      "price": 95.8
-    },
     {
       "secid": "HOU6",
       "name": "HOME-9.26",
