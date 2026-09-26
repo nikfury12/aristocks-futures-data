@@ -1,58 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-25T18:39:14.349Z",
-  "count": 506,
+  "updatedAt": "2026-09-26T01:36:32.057Z",
+  "count": 501,
   "contracts": [
-    {
-      "secid": "BTU6",
-      "name": "BTC-9.26",
-      "assetCode": "BTC",
-      "expiry": "2026-09-25",
-      "minStep": 1,
-      "stepPrice": 0.08491,
-      "margin": 1813.47,
-      "price": 84417
-    },
-    {
-      "secid": "EHU6",
-      "name": "ETH-9.26",
-      "assetCode": "ETH",
-      "expiry": "2026-09-25",
-      "minStep": 0.1,
-      "stepPrice": 0.08491,
-      "margin": 916.75,
-      "price": 2682.4
-    },
-    {
-      "secid": "S3U6",
-      "name": "SOL-9.26",
-      "assetCode": "SOL",
-      "expiry": "2026-09-25",
-      "minStep": 0.01,
-      "stepPrice": 0.84906,
-      "margin": 4306.29,
-      "price": 116.06
-    },
-    {
-      "secid": "TXU6",
-      "name": "TRX-9.26",
-      "assetCode": "TRX",
-      "expiry": "2026-09-25",
-      "minStep": 0.0001,
-      "stepPrice": 0.84906,
-      "margin": 993.9,
-      "price": 0.3393
-    },
-    {
-      "secid": "XRU6",
-      "name": "XRP-9.26",
-      "assetCode": "XRP",
-      "expiry": "2026-09-25",
-      "minStep": 0.0001,
-      "stepPrice": 0.84906,
-      "margin": 6358.79,
-      "price": 1.5145
-    },
     {
       "secid": "NGU6",
       "name": "NG-9.26",
