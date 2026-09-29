@@ -1,28 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-28T06:58:01.933Z",
-  "count": 501,
+  "updatedAt": "2026-09-29T01:59:58.766Z",
+  "count": 499,
   "contracts": [
-    {
-      "secid": "NGU6",
-      "name": "NG-9.26",
-      "assetCode": "NG",
-      "expiry": "2026-09-28",
-      "minStep": 0.001,
-      "stepPrice": 8.43414,
-      "margin": 7304.71,
-      "price": 3.138
-    },
-    {
-      "secid": "NRU6",
-      "name": "NGM-9.26",
-      "assetCode": "NGM",
-      "expiry": "2026-09-28",
-      "minStep": 0.001,
-      "stepPrice": 0.08434,
-      "margin": 73.07,
-      "price": 3.139
-    },
     {
       "secid": "92U6",
       "name": "AI92-9.26",
