@@ -1,38 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-09-29T15:55:06.949Z",
-  "count": 501,
+  "updatedAt": "2026-09-30T00:29:56.375Z",
+  "count": 498,
   "contracts": [
-    {
-      "secid": "92U6",
-      "name": "AI92-9.26",
-      "assetCode": "AI92",
-      "expiry": "2026-09-29",
-      "minStep": 10,
-      "stepPrice": 10,
-      "margin": 6963,
-      "price": 69630
-    },
-    {
-      "secid": "95U6",
-      "name": "AI95-9.26",
-      "assetCode": "AI95",
-      "expiry": "2026-09-29",
-      "minStep": 10,
-      "stepPrice": 10,
-      "margin": 7670.3,
-      "price": 69730
-    },
-    {
-      "secid": "DLU6",
-      "name": "DTL-9.26",
-      "assetCode": "DTL",
-      "expiry": "2026-09-29",
-      "minStep": 10,
-      "stepPrice": 10,
-      "margin": 6724,
-      "price": 67240
-    },
     {
       "secid": "FFU6",
       "name": "TTF-9.26",
