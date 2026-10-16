@@ -1,28 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-10-15T15:04:07.449Z",
-  "count": 497,
+  "updatedAt": "2026-10-16T01:23:51.438Z",
+  "count": 495,
   "contracts": [
-    {
-      "secid": "SuV6",
-      "name": "SUGAR-10.26",
-      "assetCode": "SUGAR",
-      "expiry": "2026-10-15",
-      "minStep": 10,
-      "stepPrice": 1,
-      "margin": 685.28,
-      "price": 42830
-    },
-    {
-      "secid": "VIV6",
-      "name": "RVI-10.26",
-      "assetCode": "RVI",
-      "expiry": "2026-10-15",
-      "minStep": 0.05,
-      "stepPrice": 8.39497,
-      "margin": 2098.35,
-      "price": 31.05
-    },
     {
       "secid": "WTV6",
       "name": "WTI-10.26",
