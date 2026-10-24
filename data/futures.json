@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-10-23T10:07:28.964Z",
-  "count": 507,
+  "updatedAt": "2026-10-24T01:37:28.586Z",
+  "count": 506,
   "contracts": [
-    {
-      "secid": "KKV6",
-      "name": "KEYRATE-10.26",
-      "assetCode": "KEYRATE",
-      "expiry": "2026-10-23",
-      "minStep": 0.01,
-      "stepPrice": 10,
-      "margin": 2925.3,
-      "price": 13.93
-    },
     {
       "secid": "NGV6",
       "name": "NG-10.26",
