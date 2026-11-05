@@ -1,6 +1,6 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-11-05T15:30:14.252Z",
+  "updatedAt": "2026-11-05T22:01:23.172Z",
   "count": 493,
   "contracts": [
     {
@@ -1590,7 +1590,7 @@
       "expiry": "2026-12-18",
       "minStep": 0.01,
       "stepPrice": 0.8167,
-      "margin": 2493.59,
+      "margin": 2892.33,
       "price": 155.32
     },
     {
@@ -1620,7 +1620,7 @@
       "expiry": "2026-12-18",
       "minStep": 1,
       "stepPrice": 0.05176,
-      "margin": 545.73,
+      "margin": 666.35,
       "price": 65924
     },
     {
@@ -1630,7 +1630,7 @@
       "expiry": "2026-12-18",
       "minStep": 1,
       "stepPrice": 0.8167,
-      "margin": 2867.17,
+      "margin": 3488.5,
       "price": 28318
     },
     {
@@ -1730,7 +1730,7 @@
       "expiry": "2026-12-18",
       "minStep": 0.01,
       "stepPrice": 0.8167,
-      "margin": 1586.23,
+      "margin": 1804.66,
       "price": 85.25
     },
     {
@@ -1800,7 +1800,7 @@
       "expiry": "2026-12-18",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 8400.64,
+      "margin": 10284.23,
       "price": 409.2
     },
     {
@@ -3480,7 +3480,7 @@
       "expiry": "2027-03-19",
       "minStep": 0.01,
       "stepPrice": 0.8167,
-      "margin": 2568.59,
+      "margin": 2965.02,
       "price": 159.31
     },
     {
@@ -3510,7 +3510,7 @@
       "expiry": "2027-03-19",
       "minStep": 1,
       "stepPrice": 0.05176,
-      "margin": 558.76,
+      "margin": 675.64,
       "price": 66112
     },
     {
@@ -3520,7 +3520,7 @@
       "expiry": "2027-03-19",
       "minStep": 1,
       "stepPrice": 0.8167,
-      "margin": 2958.5,
+      "margin": 3560.2,
       "price": 28464
     },
     {
@@ -3620,7 +3620,7 @@
       "expiry": "2027-03-19",
       "minStep": 0.01,
       "stepPrice": 0.8167,
-      "margin": 1624.72,
+      "margin": 1841.88,
       "price": 86.27
     },
     {
@@ -3690,7 +3690,7 @@
       "expiry": "2027-03-19",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 8557.83,
+      "margin": 10383.98,
       "price": 424.1
     },
     {
@@ -4100,7 +4100,7 @@
       "expiry": "2027-06-18",
       "minStep": 1,
       "stepPrice": 0.8167,
-      "margin": 3116.66,
+      "margin": 3683.09,
       "price": 28500
     },
     {
@@ -4390,7 +4390,7 @@
       "expiry": "2027-09-17",
       "minStep": 1,
       "stepPrice": 0.8167,
-      "margin": 3302.66,
+      "margin": 3825.69,
       "price": 28459
     },
     {
@@ -4650,7 +4650,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 6950.35,
+      "margin": 7943.87,
       "price": 211.2
     },
     {
@@ -4670,7 +4670,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 5551.84,
+      "margin": 6660.77,
       "price": 248.8
     },
     {
@@ -4690,7 +4690,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 3641.61,
+      "margin": 4545.86,
       "price": 184.5
     },
     {
@@ -4760,7 +4760,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 21285.22,
+      "margin": 24325.65,
       "price": 681.2
     },
     {
@@ -4800,7 +4800,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.1,
       "stepPrice": 8.16699,
-      "margin": 9447.71,
+      "margin": 11807.69,
       "price": 359
     },
     {
@@ -4850,7 +4850,7 @@
       "expiry": "2100-01-01",
       "minStep": 0.01,
       "stepPrice": 0.8167,
-      "margin": 1222.92,
+      "margin": 1528.34,
       "price": 31.74
     },
     {
