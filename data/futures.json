@@ -1,28 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-11-19T21:39:30.797Z",
-  "count": 536,
+  "updatedAt": "2026-11-20T03:21:07.047Z",
+  "count": 534,
   "contracts": [
-    {
-      "secid": "KCX6",
-      "name": "COFFEE-11.26",
-      "assetCode": "COFFEE",
-      "expiry": "2026-11-19",
-      "minStep": 0.001,
-      "stepPrice": 0.82228,
-      "margin": 262.89,
-      "price": 2.78
-    },
-    {
-      "secid": "VIX6",
-      "name": "RVI-11.26",
-      "assetCode": "RVI",
-      "expiry": "2026-11-19",
-      "minStep": 0.05,
-      "stepPrice": 8.22281,
-      "margin": 2220.81,
-      "price": 33.55
-    },
     {
       "secid": "WTX6",
       "name": "WTI-11.26",
