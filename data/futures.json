@@ -1,18 +1,8 @@
 {
   "source": "MOEX ISS",
-  "updatedAt": "2026-11-20T21:09:16.042Z",
-  "count": 534,
+  "updatedAt": "2026-11-21T02:20:26.134Z",
+  "count": 533,
   "contracts": [
-    {
-      "secid": "WTX6",
-      "name": "WTI-11.26",
-      "assetCode": "WTI",
-      "expiry": "2026-11-20",
-      "minStep": 0.01,
-      "stepPrice": 8.1929,
-      "margin": 16649.8,
-      "price": 84.15
-    },
     {
       "secid": "CCX6",
       "name": "COCOA-11.26",
